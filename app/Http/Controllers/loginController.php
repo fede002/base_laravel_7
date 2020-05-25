@@ -64,13 +64,12 @@ class loginController extends Controller
         $this->validate($rq, [
 			'nombre' => 'required|max:60',
 			'nombre_completo' => 'required|max:60',
-			'password' => 'required',
-			'tipo' => 'required',
+            'password' => 'required',			
+            'confirme_su_password' => 'required|same:password',
 			'direccion' => 'required',
 			'mail' => 'required',
 			'localidad' => 'required',
-			'telefono' => 'required',
-            'observacion' => 'required',
+			'telefono' => 'required',            
             'avatar' => 'image|mimes:jpeg,png,jpg,gif,svg|max:1024'
 		]);
         $requestData = $rq->all();
