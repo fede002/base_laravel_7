@@ -11,7 +11,7 @@ composer install
 ```
 * Luego debe copiar y editar el archivo .env para el proyecto nuevo
 ```
-cp .env.axample .env
+cp .env.example .env
 ```
 En el mismo tiene las variables de configuración para acceso a db, servidor de mail, etc, para editar segun se requiera
 
