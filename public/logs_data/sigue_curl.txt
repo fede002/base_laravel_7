@@ -1,0 +1,1950 @@
+
+08/01/2020 14:06:55 >> 
+Sync. afiliado:
+{"MANDT":"300","DNI":"56354516","CUIL":"00000000000","PAMI":"","OBRA_SOCIAL":"","BASA":"","CGBA":"","APELLIDO":"GOMEZ","NOMBRE":"EZEQUIEL ELIAS","FECHA_NACIMIENTO":"20170720","WERKS":"SA04","WERKS_NAME":"Well Being S.A.","LGORT":"0530","LGORT_NAME":"Sec Moron","DISCAPACITADO":"","VAL_HASTA_CERT_DISC":"00000000","ESTADO_JUD":"","ESTADO_JUD_NAME":"N\/A","VAL_HASTA_EXPED":"00000000","DEPENDIENTE":"","TELEFONO1":"","TELEFONO2":"","DIRECCION":"TRIUNVIRATO 563","LOCALIDAD":"LIBERTAD","PROVINCIA":"01","BEZEI":"Buenos Aires","COD_POSTAL":"1722","SEXO":"M","EMAIL":"","CODIGO_HIV":"","NRO_BENEFICIARIO":"000000000000000","GRADO_PARENTESCO":"","MODULOS":"","UGL":"","FECHA_ALTA":"20181030","FECHA_MODIFICACION":"00000000","FECHA_BAJA":"00000000","DETALLE":"","INTERNACION_DOMICILIARIA":"","ULTPED":"0","ultPed":[{"MANDT":"300","DNI":"56354516","MATNR":"000000000000001934","MES_INICIO":"12","ANIO_INICIO":"2019","ESTADO":"P","GRUPO":"S00000033","MES_FINAL":"12","ANIO_FINAL":"2019","PATOLOGIA":"0056","DESCUENTO":"100","FARMACIA":"00284","FECHA_ALTA":"20190322","USUARIO_ALTA":"WEB_RECETA3","AUTORIZACION":"","COMENTARIO":"","REFERENCIA_RECETA":"","OBSERVACION":"1213","COMENTARIO_STATUS":"","COMENTARIO_USUARIO":"","ACEPTADO_CONDI":"","CANTIDAD_S_PRESENTACION":"0001","RECUPERO":"","ETICO":"","SPRAS":"S","MAKTX":"enalapril 10 mg comp.x 100","MAKTG":"ENALAPRIL 10 MG COMP.X 100","DESCRIPCION":"DBT II","MES_FINAL2":"201912","COUNT(*)":"1","MESES":"1","PERIODO":"Desde: 12-2019 Al: 12-2019"},{"MANDT":"300","DNI":"56354516","MATNR":"000000000000001912","MES_INICIO":"07","ANIO_INICIO":"2019","ESTADO":"A","GRUPO":"S00000032","MES_FINAL":"07","ANIO_FINAL":"2019","PATOLOGIA":"0370","DESCUENTO":"100","FARMACIA":"00188","FECHA_ALTA":"20190624","USUARIO_ALTA":"YMELLERI","AUTORIZACION":"C2","COMENTARIO":"","REFERENCIA_RECETA":"","OBSERVACION":"","COMENTARIO_STATUS":"","COMENTARIO_USUARIO":"","ACEPTADO_CONDI":"","CANTIDAD_S_PRESENTACION":"0010","RECUPERO":"","ETICO":"","SPRAS":"S","MAKTX":"DUODERM APOSITO 10 X 10 CM","MAKTG":"DUODERM APOSITO 10 X 10 CM","DESCRIPCION":"INTERNACION DOMICILIARIA","MES_FINAL2":"201907","COUNT(*)":"1","MESES":"1","PERIODO":"Desde: 07-2019 Al: 07-2019"},{"MANDT":"300","DNI":"56354516","MATNR":"000000000000004997","MES_INICIO":"07","ANIO_INICIO":"2019","ESTADO":"A","GRUPO":"S00000032","MES_FINAL":"07","ANIO_FINAL":"2019","PATOLOGIA":"0370","DESCUENTO":"100","FARMACIA":"00188","FECHA_ALTA":"20190625","USUARIO_ALTA":"SMAURO","AUTORIZACION":"C2","COMENTARIO":"","REFERENCIA_RECETA":"","OBSERVACION":"","COMENTARIO_STATUS":"","COMENTARIO_USUARIO":"","ACEPTADO_CONDI":"","CANTIDAD_S_PRESENTACION":"0010","RECUPERO":"","ETICO":"","SPRAS":"S","MAKTX":"TEGADERM 10 X 10 CM","MAKTG":"TEGADERM 10 X 10 CM","DESCRIPCION":"INTERNACION DOMICILIARIA","MES_FINAL2":"201907","COUNT(*)":"1","MESES":"1","PERIODO":"Desde: 07-2019 Al: 07-2019"}]}
+ var datos:
+[{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8CC3F813C05FAFA2')","id":"00163E3AA44F1EEA8CC3F7C3C4FAEFA2","key":"ABY+OqRPHuqMw\/fDxPrvog==","item":{"POSICION":"0001","MATNR":"000000000000003090","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"56","DESCUENTO":"040","OBSERVACION":"primera ","USUARIO_CREACION":"33656002","mat_desc":"loperamida 10 mg comp.x 20","pat_desc":"DBT II"}},{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8CC3FCE7E9A12FA7')","id":"00163E3AA44F1EEA8CC3F7C3C4FAEFA2","key":"ABY+OqRPHuqMw\/fDxPrvog==","item":{"POSICION":"0002","MATNR":"000000000000002326","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"49","DESCUENTO":"040","OBSERVACION":"segunda","USUARIO_CREACION":"33656002","mat_desc":"GASA HIDROFILA TUBULAR","pat_desc":"DBT I"}},{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8CC3FF7EF00C6FA9')","id":"00163E3AA44F1EEA8CC3F7C3C4FAEFA2","key":"ABY+OqRPHuqMw\/fDxPrvog==","item":{"POSICION":"0003","MATNR":"000000000000002325","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"56","DESCUENTO":"040","OBSERVACION":"tercero","USUARIO_CREACION":"33656002","mat_desc":"GASA HIDROFILA TUBULAR","pat_desc":"DBT II"}}]
+08/01/2020 14:06:56 >> Se ejecura sync de url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/SYNC?NODE_ID=binary%2700163E3AA44F1EEA8CC3F7C3C4FAEFA2%27&ENTITY_NAME=%27ROOT%27&PRE_ID=binary%2700163E3AA44F1EEA8CC3F7C3C4FAEFA2%27&sap-client=110
+08/01/2020 14:06:56 >> Resultado: 
+08/01/2020 14:06:56 >> {"d":{"__metadata":{"id":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC3F7C3C4FAEFA2')","uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC3F7C3C4FAEFA2')","type":"ZMM_API_PRES_DIGITAL_SRV.ROOT"},"KEY":"ABY+OqRPHuqMw/fDxPrvog==","PARENT_KEY":"AAAAAAAAAAAAAAAAAAAAAA==","ROOT_KEY":"ABY+OqRPHuqMw/fDxPrvog==","PRE_ID":"00163E3AA44F1EEA8CC3F7C3C4FAEFA2","DNI":"56354516","CENTRO":"","USUARIO_CREACION":"33656002","FECHA_CREACION":"20200108","HORA_CREACION":"110411","USUARIO_MODIFICACION":"","FECHA_MODIFICACION":"","HORA_MODIFICACION":"","TO_ITE_ITEM":{"__deferred":{"uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC3F7C3C4FAEFA2')/TO_ITE_ITEM"}}}}
+08/01/2020 14:06:56 >> Sync. resultado:
+"{\"d\":{\"__metadata\":{\"id\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8CC3F7C3C4FAEFA2')\",\"uri\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8CC3F7C3C4FAEFA2')\",\"type\":\"ZMM_API_PRES_DIGITAL_SRV.ROOT\"},\"KEY\":\"ABY+OqRPHuqMw\/fDxPrvog==\",\"PARENT_KEY\":\"AAAAAAAAAAAAAAAAAAAAAA==\",\"ROOT_KEY\":\"ABY+OqRPHuqMw\/fDxPrvog==\",\"PRE_ID\":\"00163E3AA44F1EEA8CC3F7C3C4FAEFA2\",\"DNI\":\"56354516\",\"CENTRO\":\"\",\"USUARIO_CREACION\":\"33656002\",\"FECHA_CREACION\":\"20200108\",\"HORA_CREACION\":\"110411\",\"USUARIO_MODIFICACION\":\"\",\"FECHA_MODIFICACION\":\"\",\"HORA_MODIFICACION\":\"\",\"TO_ITE_ITEM\":{\"__deferred\":{\"uri\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8CC3F7C3C4FAEFA2')\/TO_ITE_ITEM\"}}}}"
+08/01/2020 14:22:56 >> 
+
+se limpio la cab y items
+08/01/2020 14:24:39 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+08/01/2020 14:24:40 >> Se pide cab  /keys:
+Cookie: SAP_SESSIONID_O4D_110=gQJADJZViobt62JRjD2hXprSCvMyIhHqsFQAFj46pE8%3d
+x-csrf-token: S8wPFJm7eOYpApAGbRig9A==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+08/01/2020 14:24:40 >> Cab OK con url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')/TO_ITE_ITEM
+08/01/2020 14:24:42 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')/TO_ITE_ITEM?sap-client=110
+08/01/2020 14:24:43 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=AT4LFO2WzyCOWZL5SPUAbZvvrS0yIhHqsFQAFj46pE8%3d
+x-csrf-token: ZIsPr7K0A-zAtOx_HQZM-w==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')/TO_ITE_ITEM?sap-client=110
+08/01/2020 14:24:43 >> Error :
+{"code":"ZMM_PADRON_DIGITAL\/008","message":{"lang":"es","value":"El per\u00edodo ya existe en el sistema"},"innererror":{"application":{"component_id":"CA-EPT-BRC-GBI","service_namespace":"\/SAP\/","service_id":"ZMM_API_PRES_DIGITAL_SRV","service_version":"0001"},"transactionid":"F7B0CD72891200D0E005E0A5834D8480","timestamp":"","Error_Resolution":{"SAP_Transaction":"","SAP_Note":"See SAP Note 1797736 for error analysis (https:\/\/service.sap.com\/sap\/support\/notes\/1797736)"},"errordetails":[{"code":"ZMM_PADRON_DIGITAL\/008","message":"El per\u00edodo ya existe en el sistema","propertyref":"","severity":"error","target":""},{"code":"\/IWBEP\/CX_MGW_BUSI_EXCEPTION","message":"Precondition failed","longtext_url":"\/sap\/opu\/odata\/iwbep\/message_text;o=LOCAL\/","propertyref":"","severity":"error","target":""}]}}
+ url: http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')/TO_ITE_ITEM?sap-client=110
+08/01/2020 14:25:17 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')/TO_ITE_ITEM?sap-client=110
+08/01/2020 14:25:18 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=GNcmRbIXWOs0IiRe9Po4xrEjdaMyIhHqsFQAFj46pE8%3d
+x-csrf-token: -4Fvrl2XpkQEtF2uYt-TIw==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')/TO_ITE_ITEM?sap-client=110
+08/01/2020 14:25:18 >> Item OK con url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ITEMCollection(binary'00163E3AA44F1EEA8CC456246EB4F054')
+08/01/2020 14:25:24 >> 
+Sync. afiliado:
+{"MANDT":"300","DNI":"56354516","CUIL":"00000000000","PAMI":"","OBRA_SOCIAL":"","BASA":"","CGBA":"","APELLIDO":"GOMEZ","NOMBRE":"EZEQUIEL ELIAS","FECHA_NACIMIENTO":"20170720","WERKS":"SA04","WERKS_NAME":"Well Being S.A.","LGORT":"0530","LGORT_NAME":"Sec Moron","DISCAPACITADO":"","VAL_HASTA_CERT_DISC":"00000000","ESTADO_JUD":"","ESTADO_JUD_NAME":"N\/A","VAL_HASTA_EXPED":"00000000","DEPENDIENTE":"","TELEFONO1":"","TELEFONO2":"","DIRECCION":"TRIUNVIRATO 563","LOCALIDAD":"LIBERTAD","PROVINCIA":"01","BEZEI":"Buenos Aires","COD_POSTAL":"1722","SEXO":"M","EMAIL":"","CODIGO_HIV":"","NRO_BENEFICIARIO":"000000000000000","GRADO_PARENTESCO":"","MODULOS":"","UGL":"","FECHA_ALTA":"20181030","FECHA_MODIFICACION":"00000000","FECHA_BAJA":"00000000","DETALLE":"","INTERNACION_DOMICILIARIA":"","ULTPED":"0","ultPed":[{"MANDT":"300","DNI":"56354516","MATNR":"000000000000001934","MES_INICIO":"12","ANIO_INICIO":"2019","ESTADO":"P","GRUPO":"S00000033","MES_FINAL":"12","ANIO_FINAL":"2019","PATOLOGIA":"0056","DESCUENTO":"100","FARMACIA":"00284","FECHA_ALTA":"20190322","USUARIO_ALTA":"WEB_RECETA3","AUTORIZACION":"","COMENTARIO":"","REFERENCIA_RECETA":"","OBSERVACION":"1213","COMENTARIO_STATUS":"","COMENTARIO_USUARIO":"","ACEPTADO_CONDI":"","CANTIDAD_S_PRESENTACION":"0001","RECUPERO":"","ETICO":"","SPRAS":"S","MAKTX":"enalapril 10 mg comp.x 100","MAKTG":"ENALAPRIL 10 MG COMP.X 100","DESCRIPCION":"DBT II","MES_FINAL2":"201912","COUNT(*)":"1","MESES":"1","PERIODO":"Desde: 12-2019 Al: 12-2019"},{"MANDT":"300","DNI":"56354516","MATNR":"000000000000001912","MES_INICIO":"07","ANIO_INICIO":"2019","ESTADO":"A","GRUPO":"S00000032","MES_FINAL":"07","ANIO_FINAL":"2019","PATOLOGIA":"0370","DESCUENTO":"100","FARMACIA":"00188","FECHA_ALTA":"20190624","USUARIO_ALTA":"YMELLERI","AUTORIZACION":"C2","COMENTARIO":"","REFERENCIA_RECETA":"","OBSERVACION":"","COMENTARIO_STATUS":"","COMENTARIO_USUARIO":"","ACEPTADO_CONDI":"","CANTIDAD_S_PRESENTACION":"0010","RECUPERO":"","ETICO":"","SPRAS":"S","MAKTX":"DUODERM APOSITO 10 X 10 CM","MAKTG":"DUODERM APOSITO 10 X 10 CM","DESCRIPCION":"INTERNACION DOMICILIARIA","MES_FINAL2":"201907","COUNT(*)":"1","MESES":"1","PERIODO":"Desde: 07-2019 Al: 07-2019"},{"MANDT":"300","DNI":"56354516","MATNR":"000000000000004997","MES_INICIO":"07","ANIO_INICIO":"2019","ESTADO":"A","GRUPO":"S00000032","MES_FINAL":"07","ANIO_FINAL":"2019","PATOLOGIA":"0370","DESCUENTO":"100","FARMACIA":"00188","FECHA_ALTA":"20190625","USUARIO_ALTA":"SMAURO","AUTORIZACION":"C2","COMENTARIO":"","REFERENCIA_RECETA":"","OBSERVACION":"","COMENTARIO_STATUS":"","COMENTARIO_USUARIO":"","ACEPTADO_CONDI":"","CANTIDAD_S_PRESENTACION":"0010","RECUPERO":"","ETICO":"","SPRAS":"S","MAKTX":"TEGADERM 10 X 10 CM","MAKTG":"TEGADERM 10 X 10 CM","DESCRIPCION":"INTERNACION DOMICILIARIA","MES_FINAL2":"201907","COUNT(*)":"1","MESES":"1","PERIODO":"Desde: 07-2019 Al: 07-2019"}]}
+ var datos:
+[{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8CC456246EB4F054')","id":"00163E3AA44F1EEA8CC4535A415EF054","key":"ABY+OqRPHuqMxFNaQV7wVA==","item":{"POSICION":"0001","MATNR":"000000000000003092","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"49","DESCUENTO":"040","OBSERVACION":"primero 3","USUARIO_CREACION":"33656002","mat_desc":"loperamida 2 mg comp.x 12","pat_desc":"DBT I"}}]
+08/01/2020 14:25:24 >> Se ejecura sync de url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/SYNC?NODE_ID=binary%2700163E3AA44F1EEA8CC4535A415EF054%27&ENTITY_NAME=%27ROOT%27&PRE_ID=binary%2700163E3AA44F1EEA8CC4535A415EF054%27&sap-client=110
+08/01/2020 14:25:24 >> Resultado: 
+08/01/2020 14:25:24 >> {"d":{"__metadata":{"id":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')","uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')","type":"ZMM_API_PRES_DIGITAL_SRV.ROOT"},"KEY":"ABY+OqRPHuqMxFNaQV7wVA==","PARENT_KEY":"AAAAAAAAAAAAAAAAAAAAAA==","ROOT_KEY":"ABY+OqRPHuqMxFNaQV7wVA==","PRE_ID":"00163E3AA44F1EEA8CC4535A415EF054","DNI":"56354516","CENTRO":"","USUARIO_CREACION":"33656002","FECHA_CREACION":"20200108","HORA_CREACION":"112440","USUARIO_MODIFICACION":"","FECHA_MODIFICACION":"","HORA_MODIFICACION":"","TO_ITE_ITEM":{"__deferred":{"uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')/TO_ITE_ITEM"}}}}
+08/01/2020 14:26:07 >> 
+Sync. afiliado:
+{"MANDT":"300","DNI":"56354516","CUIL":"00000000000","PAMI":"","OBRA_SOCIAL":"","BASA":"","CGBA":"","APELLIDO":"GOMEZ","NOMBRE":"EZEQUIEL ELIAS","FECHA_NACIMIENTO":"20170720","WERKS":"SA04","WERKS_NAME":"Well Being S.A.","LGORT":"0530","LGORT_NAME":"Sec Moron","DISCAPACITADO":"","VAL_HASTA_CERT_DISC":"00000000","ESTADO_JUD":"","ESTADO_JUD_NAME":"N\/A","VAL_HASTA_EXPED":"00000000","DEPENDIENTE":"","TELEFONO1":"","TELEFONO2":"","DIRECCION":"TRIUNVIRATO 563","LOCALIDAD":"LIBERTAD","PROVINCIA":"01","BEZEI":"Buenos Aires","COD_POSTAL":"1722","SEXO":"M","EMAIL":"","CODIGO_HIV":"","NRO_BENEFICIARIO":"000000000000000","GRADO_PARENTESCO":"","MODULOS":"","UGL":"","FECHA_ALTA":"20181030","FECHA_MODIFICACION":"00000000","FECHA_BAJA":"00000000","DETALLE":"","INTERNACION_DOMICILIARIA":"","ULTPED":"0","ultPed":[{"MANDT":"300","DNI":"56354516","MATNR":"000000000000001934","MES_INICIO":"12","ANIO_INICIO":"2019","ESTADO":"P","GRUPO":"S00000033","MES_FINAL":"12","ANIO_FINAL":"2019","PATOLOGIA":"0056","DESCUENTO":"100","FARMACIA":"00284","FECHA_ALTA":"20190322","USUARIO_ALTA":"WEB_RECETA3","AUTORIZACION":"","COMENTARIO":"","REFERENCIA_RECETA":"","OBSERVACION":"1213","COMENTARIO_STATUS":"","COMENTARIO_USUARIO":"","ACEPTADO_CONDI":"","CANTIDAD_S_PRESENTACION":"0001","RECUPERO":"","ETICO":"","SPRAS":"S","MAKTX":"enalapril 10 mg comp.x 100","MAKTG":"ENALAPRIL 10 MG COMP.X 100","DESCRIPCION":"DBT II","MES_FINAL2":"201912","COUNT(*)":"1","MESES":"1","PERIODO":"Desde: 12-2019 Al: 12-2019"},{"MANDT":"300","DNI":"56354516","MATNR":"000000000000001912","MES_INICIO":"07","ANIO_INICIO":"2019","ESTADO":"A","GRUPO":"S00000032","MES_FINAL":"07","ANIO_FINAL":"2019","PATOLOGIA":"0370","DESCUENTO":"100","FARMACIA":"00188","FECHA_ALTA":"20190624","USUARIO_ALTA":"YMELLERI","AUTORIZACION":"C2","COMENTARIO":"","REFERENCIA_RECETA":"","OBSERVACION":"","COMENTARIO_STATUS":"","COMENTARIO_USUARIO":"","ACEPTADO_CONDI":"","CANTIDAD_S_PRESENTACION":"0010","RECUPERO":"","ETICO":"","SPRAS":"S","MAKTX":"DUODERM APOSITO 10 X 10 CM","MAKTG":"DUODERM APOSITO 10 X 10 CM","DESCRIPCION":"INTERNACION DOMICILIARIA","MES_FINAL2":"201907","COUNT(*)":"1","MESES":"1","PERIODO":"Desde: 07-2019 Al: 07-2019"},{"MANDT":"300","DNI":"56354516","MATNR":"000000000000004997","MES_INICIO":"07","ANIO_INICIO":"2019","ESTADO":"A","GRUPO":"S00000032","MES_FINAL":"07","ANIO_FINAL":"2019","PATOLOGIA":"0370","DESCUENTO":"100","FARMACIA":"00188","FECHA_ALTA":"20190625","USUARIO_ALTA":"SMAURO","AUTORIZACION":"C2","COMENTARIO":"","REFERENCIA_RECETA":"","OBSERVACION":"","COMENTARIO_STATUS":"","COMENTARIO_USUARIO":"","ACEPTADO_CONDI":"","CANTIDAD_S_PRESENTACION":"0010","RECUPERO":"","ETICO":"","SPRAS":"S","MAKTX":"TEGADERM 10 X 10 CM","MAKTG":"TEGADERM 10 X 10 CM","DESCRIPCION":"INTERNACION DOMICILIARIA","MES_FINAL2":"201907","COUNT(*)":"1","MESES":"1","PERIODO":"Desde: 07-2019 Al: 07-2019"}]}
+ var datos:
+[{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8CC456246EB4F054')","id":"00163E3AA44F1EEA8CC4535A415EF054","key":"ABY+OqRPHuqMxFNaQV7wVA==","item":{"POSICION":"0001","MATNR":"000000000000003092","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"49","DESCUENTO":"040","OBSERVACION":"primero 3","USUARIO_CREACION":"33656002","mat_desc":"loperamida 2 mg comp.x 12","pat_desc":"DBT I"}}]
+08/01/2020 14:26:08 >> Se ejecura sync de url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/SYNC?NODE_ID=binary%2700163E3AA44F1EEA8CC4535A415EF054%27&ENTITY_NAME=%27ROOT%27&PRE_ID=binary%2700163E3AA44F1EEA8CC4535A415EF054%27&sap-client=110
+08/01/2020 14:26:08 >> Resultado: 
+08/01/2020 14:26:08 >> {"d":{"__metadata":{"id":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')","uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')","type":"ZMM_API_PRES_DIGITAL_SRV.ROOT"},"KEY":"ABY+OqRPHuqMxFNaQV7wVA==","PARENT_KEY":"AAAAAAAAAAAAAAAAAAAAAA==","ROOT_KEY":"ABY+OqRPHuqMxFNaQV7wVA==","PRE_ID":"00163E3AA44F1EEA8CC4535A415EF054","DNI":"56354516","CENTRO":"","USUARIO_CREACION":"33656002","FECHA_CREACION":"20200108","HORA_CREACION":"112440","USUARIO_MODIFICACION":"","FECHA_MODIFICACION":"","HORA_MODIFICACION":"","TO_ITE_ITEM":{"__deferred":{"uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')/TO_ITE_ITEM"}}}}
+08/01/2020 14:26:08 >> Sync. resultado:
+"{\"d\":{\"__metadata\":{\"id\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')\",\"uri\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')\",\"type\":\"ZMM_API_PRES_DIGITAL_SRV.ROOT\"},\"KEY\":\"ABY+OqRPHuqMxFNaQV7wVA==\",\"PARENT_KEY\":\"AAAAAAAAAAAAAAAAAAAAAA==\",\"ROOT_KEY\":\"ABY+OqRPHuqMxFNaQV7wVA==\",\"PRE_ID\":\"00163E3AA44F1EEA8CC4535A415EF054\",\"DNI\":\"56354516\",\"CENTRO\":\"\",\"USUARIO_CREACION\":\"33656002\",\"FECHA_CREACION\":\"20200108\",\"HORA_CREACION\":\"112440\",\"USUARIO_MODIFICACION\":\"\",\"FECHA_MODIFICACION\":\"\",\"HORA_MODIFICACION\":\"\",\"TO_ITE_ITEM\":{\"__deferred\":{\"uri\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8CC4535A415EF054')\/TO_ITE_ITEM\"}}}}"
+08/01/2020 14:26:08 >> 
+
+se limpio la cab y items
+08/01/2020 15:08:33 >> 
+
+se limpio la cab y items
+08/01/2020 15:15:16 >> 
+
+se limpio la cab y items
+08/01/2020 17:01:41 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+08/01/2020 17:01:42 >> Se pide cab  /keys:
+Cookie: SAP_SESSIONID_O4D_110=pmJuglE3SMIO9oSYk6FgioqSzVsyOBHqtVoAFj46pE8%3d
+x-csrf-token: 7zWIvFhz4hMoK6N5bEBPHg==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+08/01/2020 17:01:42 >> Cab OK con url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC7115259ABF55A')/TO_ITE_ITEM
+08/01/2020 17:04:28 >> 
+
+se limpio la cab y items
+08/01/2020 17:05:50 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+08/01/2020 17:05:51 >> Se pide cab  /keys:
+Cookie: SAP_SESSIONID_O4D_110=mBO70DAUFpcQMP8eapvwNB6aUeUyORHqtYcAFj46pE8%3d
+x-csrf-token: vtg0ETPOfFq8MrzSrcQSWw==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+08/01/2020 17:05:51 >> Cab OK con url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM
+08/01/2020 17:05:53 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:05:54 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=XejHWzbXwhOVvomuWHhTpSD01w0yORHqtYcAFj46pE8%3d
+x-csrf-token: xc8CCgH2zAfV5FNfrLgdtg==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:05:54 >> Error :
+{"code":"ZMM_PADRON_DIGITAL\/008","message":{"lang":"es","value":"El per\u00edodo ya existe en el sistema"},"innererror":{"application":{"component_id":"CA-EPT-BRC-GBI","service_namespace":"\/SAP\/","service_id":"ZMM_API_PRES_DIGITAL_SRV","service_version":"0001"},"transactionid":"F7B0CD72891200E0E005E0A58346B1CB","timestamp":"","Error_Resolution":{"SAP_Transaction":"","SAP_Note":"See SAP Note 1797736 for error analysis (https:\/\/service.sap.com\/sap\/support\/notes\/1797736)"},"errordetails":[{"code":"ZMM_PADRON_DIGITAL\/008","message":"El per\u00edodo ya existe en el sistema","propertyref":"","severity":"error","target":""},{"code":"\/IWBEP\/CX_MGW_BUSI_EXCEPTION","message":"Precondition failed","longtext_url":"\/sap\/opu\/odata\/iwbep\/message_text;o=LOCAL\/","propertyref":"","severity":"error","target":""}]}}
+ url: http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:07:03 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:07:05 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=yJQwU_4q4yHIcstyOiQYlUmC0GcyORHqtYoAFj46pE8%3d
+x-csrf-token: 7C6Vqqel_U3AHih-h7ZoGQ==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:07:05 >> Item OK con url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ITEMCollection(binary'00163E3AA44F1EEA8CC7296C4582358A')
+08/01/2020 17:09:30 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:09:31 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=TOTuYEwP__Rdc2_p2KmrPKGTMAMyORHqtbMAFj46pE8%3d
+x-csrf-token: M6nUIc-nMg6oZt2fmIDS0w==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:09:31 >> Error :
+{"code":"ZMM_PADRON_DIGITAL\/012","message":{"lang":"es","value":"El per\u00edodo ya existe en la carga actual"},"innererror":{"application":{"component_id":"CA-EPT-BRC-GBI","service_namespace":"\/SAP\/","service_id":"ZMM_API_PRES_DIGITAL_SRV","service_version":"0001"},"transactionid":"F7B0CD7289120120E005E0A58345001F","timestamp":"","Error_Resolution":{"SAP_Transaction":"","SAP_Note":"See SAP Note 1797736 for error analysis (https:\/\/service.sap.com\/sap\/support\/notes\/1797736)"},"errordetails":[{"code":"ZMM_PADRON_DIGITAL\/012","message":"El per\u00edodo ya existe en la carga actual","propertyref":"","severity":"error","target":""},{"code":"\/IWBEP\/CX_MGW_BUSI_EXCEPTION","message":"Precondition failed","longtext_url":"\/sap\/opu\/odata\/iwbep\/message_text;o=LOCAL\/","propertyref":"","severity":"error","target":""}]}}
+ url: http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:12:47 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:12:47 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=jkpbx40vXXtHvCOuENNJ8BbybKEyOhHqtdYAFj46pE8%3d
+x-csrf-token: vpFMwdOMqkGd1ROQLm3O1g==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:12:47 >> Error :
+{"code":"ZMM_PADRON_DIGITAL\/008","message":{"lang":"es","value":"El per\u00edodo ya existe en el sistema"},"innererror":{"application":{"component_id":"CA-EPT-BRC-GBI","service_namespace":"\/SAP\/","service_id":"ZMM_API_PRES_DIGITAL_SRV","service_version":"0001"},"transactionid":"F7B0CD7289120120E005E0A58345003C","timestamp":"","Error_Resolution":{"SAP_Transaction":"","SAP_Note":"See SAP Note 1797736 for error analysis (https:\/\/service.sap.com\/sap\/support\/notes\/1797736)"},"errordetails":[{"code":"ZMM_PADRON_DIGITAL\/008","message":"El per\u00edodo ya existe en el sistema","propertyref":"","severity":"error","target":""},{"code":"\/IWBEP\/CX_MGW_BUSI_EXCEPTION","message":"Precondition failed","longtext_url":"\/sap\/opu\/odata\/iwbep\/message_text;o=LOCAL\/","propertyref":"","severity":"error","target":""}]}}
+ url: http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:13:22 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:13:23 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=p--kXVSuayS2APT8iyl7USv8RccyOhHqtdcAFj46pE8%3d
+x-csrf-token: kTcqpkpe4cbfGTnUoSMEcQ==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM?sap-client=110
+08/01/2020 17:13:23 >> Item OK con url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ITEMCollection(binary'00163E3AA44F1EEA8CC745A1852D35D7')
+08/01/2020 17:13:39 >> 
+Sync. afiliado:
+{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PACIENTESet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PACIENTESet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PACIENTE"},"Dni":"56354516","Cuil":"00000000000","Apellido":"GOMEZ","Nombre":"EZEQUIEL ELIAS","FechaNacimiento":"\/Date(1500508800000)\/","Werks":"SA04","Lgort":"0530","Discapacitado":false,"ValHastaCertDisc":null,"EstadoJud":"","ValHastaExped":null,"Dependiente":false,"Telefono1":"","Telefono2":"","Direccion":"TRIUNVIRATO 563","Localidad":"LIBERTAD","Provincia":"01","CodPostal":"1722","Sexo":"M","Email":"","Pami":"","ObraSocial":"","Basa":"","Cgba":"","CodigoHiv":"","NroBeneficiario":"000000000000000","GradoParentesco":"","Modulos":"","Ugl":"","FechaAlta":"\/Date(1540857600000)\/","FechaModificacion":null,"FechaBaja":null,"Detalle":"","InternacionDomiciliaria":false}
+ var datos:
+[{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8CC7296C4582358A')","id":"00163E3AA44F1EEA8CC723F50636B587","key":"ABY+OqRPHuqMxyP1Bja1hw==","item":{"POSICION":"0001","MATNR":"000000000000002658","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"56","DESCUENTO":"040","OBSERVACION":"lalal","USUARIO_CREACION":"33656002","mat_desc":"ibuprofeno 400 mg comp.x 10","pat_desc":"DBT II"}},{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8CC745A1852D35D7')","id":"00163E3AA44F1EEA8CC723F50636B587","key":"ABY+OqRPHuqMxyP1Bja1hw==","item":{"POSICION":"0002","MATNR":"000000000000001935","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"56","DESCUENTO":"070","OBSERVACION":"alalal","USUARIO_CREACION":"33656002","mat_desc":"enalapril 10 mg comp.x 150","pat_desc":"DBT II"}}]
+08/01/2020 17:13:40 >> Se ejecura sync de url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/SYNC?NODE_ID=binary%2700163E3AA44F1EEA8CC723F50636B587%27&ENTITY_NAME=%27ROOT%27&PRE_ID=binary%2700163E3AA44F1EEA8CC723F50636B587%27&sap-client=110
+08/01/2020 17:13:40 >> Resultado: 
+08/01/2020 17:13:40 >> {"d":{"__metadata":{"id":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')","uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')","type":"ZMM_API_PRES_DIGITAL_SRV.ROOT"},"KEY":"ABY+OqRPHuqMxyP1Bja1hw==","PARENT_KEY":"AAAAAAAAAAAAAAAAAAAAAA==","ROOT_KEY":"ABY+OqRPHuqMxyP1Bja1hw==","PRE_ID":"00163E3AA44F1EEA8CC723F50636B587","DNI":"56354516","CENTRO":"","USUARIO_CREACION":"33656002","FECHA_CREACION":"20200108","HORA_CREACION":"140551","USUARIO_MODIFICACION":"","FECHA_MODIFICACION":"","HORA_MODIFICACION":"","TO_ITE_ITEM":{"__deferred":{"uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM"}}}}
+08/01/2020 17:15:01 >> 
+Sync. afiliado:
+{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PACIENTESet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PACIENTESet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PACIENTE"},"Dni":"56354516","Cuil":"00000000000","Apellido":"GOMEZ","Nombre":"EZEQUIEL ELIAS","FechaNacimiento":"\/Date(1500508800000)\/","Werks":"SA04","Lgort":"0530","Discapacitado":false,"ValHastaCertDisc":null,"EstadoJud":"","ValHastaExped":null,"Dependiente":false,"Telefono1":"","Telefono2":"","Direccion":"TRIUNVIRATO 563","Localidad":"LIBERTAD","Provincia":"01","CodPostal":"1722","Sexo":"M","Email":"","Pami":"","ObraSocial":"","Basa":"","Cgba":"","CodigoHiv":"","NroBeneficiario":"000000000000000","GradoParentesco":"","Modulos":"","Ugl":"","FechaAlta":"\/Date(1540857600000)\/","FechaModificacion":null,"FechaBaja":null,"Detalle":"","InternacionDomiciliaria":false}
+ var datos:
+[{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8CC7296C4582358A')","id":"00163E3AA44F1EEA8CC723F50636B587","key":"ABY+OqRPHuqMxyP1Bja1hw==","item":{"POSICION":"0001","MATNR":"000000000000002658","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"56","DESCUENTO":"040","OBSERVACION":"lalal","USUARIO_CREACION":"33656002","mat_desc":"ibuprofeno 400 mg comp.x 10","pat_desc":"DBT II"}},{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8CC745A1852D35D7')","id":"00163E3AA44F1EEA8CC723F50636B587","key":"ABY+OqRPHuqMxyP1Bja1hw==","item":{"POSICION":"0002","MATNR":"000000000000001935","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"56","DESCUENTO":"070","OBSERVACION":"alalal","USUARIO_CREACION":"33656002","mat_desc":"enalapril 10 mg comp.x 150","pat_desc":"DBT II"}}]
+08/01/2020 17:15:01 >> Se ejecura sync de url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/SYNC?NODE_ID=binary%2700163E3AA44F1EEA8CC723F50636B587%27&ENTITY_NAME=%27ROOT%27&PRE_ID=binary%2700163E3AA44F1EEA8CC723F50636B587%27&sap-client=110
+08/01/2020 17:15:01 >> Resultado: 
+08/01/2020 17:15:01 >> {"d":{"__metadata":{"id":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')","uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')","type":"ZMM_API_PRES_DIGITAL_SRV.ROOT"},"KEY":"ABY+OqRPHuqMxyP1Bja1hw==","PARENT_KEY":"AAAAAAAAAAAAAAAAAAAAAA==","ROOT_KEY":"ABY+OqRPHuqMxyP1Bja1hw==","PRE_ID":"00163E3AA44F1EEA8CC723F50636B587","DNI":"56354516","CENTRO":"","USUARIO_CREACION":"33656002","FECHA_CREACION":"20200108","HORA_CREACION":"140551","USUARIO_MODIFICACION":"","FECHA_MODIFICACION":"","HORA_MODIFICACION":"","TO_ITE_ITEM":{"__deferred":{"uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')/TO_ITE_ITEM"}}}}
+08/01/2020 17:15:01 >> Sync. resultado:
+"{\"d\":{\"__metadata\":{\"id\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')\",\"uri\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')\",\"type\":\"ZMM_API_PRES_DIGITAL_SRV.ROOT\"},\"KEY\":\"ABY+OqRPHuqMxyP1Bja1hw==\",\"PARENT_KEY\":\"AAAAAAAAAAAAAAAAAAAAAA==\",\"ROOT_KEY\":\"ABY+OqRPHuqMxyP1Bja1hw==\",\"PRE_ID\":\"00163E3AA44F1EEA8CC723F50636B587\",\"DNI\":\"56354516\",\"CENTRO\":\"\",\"USUARIO_CREACION\":\"33656002\",\"FECHA_CREACION\":\"20200108\",\"HORA_CREACION\":\"140551\",\"USUARIO_MODIFICACION\":\"\",\"FECHA_MODIFICACION\":\"\",\"HORA_MODIFICACION\":\"\",\"TO_ITE_ITEM\":{\"__deferred\":{\"uri\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8CC723F50636B587')\/TO_ITE_ITEM\"}}}}"
+08/01/2020 17:15:02 >> 
+
+se limpio la cab y items
+08/01/2020 18:13:54 >> 
+
+se limpio la cab y items
+08/01/2020 18:14:15 >> 
+
+se limpio la cab y items
+08/01/2020 18:14:32 >> 
+
+se limpio la cab y items
+08/01/2020 18:16:16 >> 
+
+se limpio la cab y items
+08/01/2020 18:22:21 >> 
+
+se limpio la cab y items
+08/01/2020 18:24:07 >> 
+
+se limpio la cab y items
+08/01/2020 18:24:15 >> 
+
+se limpio la cab y items
+08/01/2020 18:30:48 >> 
+
+se limpio la cab y items
+08/01/2020 18:53:35 >> 
+
+se limpio la cab y items
+08/01/2020 18:56:22 >> 
+
+se limpio la cab y items
+08/01/2020 19:00:23 >> 
+
+se limpio la cab y items
+08/01/2020 19:03:56 >> 
+
+se limpio la cab y items
+08/01/2020 19:04:02 >> 
+
+se limpio la cab y items
+08/01/2020 19:04:25 >> 
+
+se limpio la cab y items
+08/01/2020 19:04:31 >> 
+
+se limpio la cab y items
+08/01/2020 19:04:58 >> 
+
+se limpio la cab y items
+08/01/2020 19:06:08 >> 
+
+se limpio la cab y items
+08/01/2020 19:06:15 >> 
+
+se limpio la cab y items
+08/01/2020 19:07:01 >> 
+
+se limpio la cab y items
+08/01/2020 19:08:00 >> 
+
+se limpio la cab y items
+08/01/2020 19:18:53 >> 
+
+se limpio la cab y items
+09/01/2020 15:15:02 >> 
+
+se limpio la cab y items
+09/01/2020 18:21:12 >> 
+
+se limpio la cab y items
+09/01/2020 18:56:27 >> 
+
+se limpio la cab y items
+20/01/2020 16:30:23 >> 
+
+se limpio la cab y items
+20/01/2020 19:00:45 >> 
+
+se limpio la cab y items
+20/01/2020 19:00:52 >> 
+
+se limpio la cab y items
+20/01/2020 19:14:16 >> 
+
+se limpio la cab y items
+20/01/2020 19:14:16 >> 
+
+se limpio la cab y items
+20/01/2020 19:14:24 >> 
+
+se limpio la cab y items
+21/01/2020 13:23:03 >> 
+
+se limpio la cab y items
+21/01/2020 13:30:02 >> 
+
+se limpio la cab y items
+23/01/2020 13:27:07 >> 
+
+se limpio la cab y items
+23/01/2020 14:40:16 >> 
+
+se limpio la cab y items
+23/01/2020 14:40:39 >> 
+
+se limpio la cab y items
+23/01/2020 15:37:41 >> 
+
+se limpio la cab y items
+23/01/2020 15:51:19 >> 
+
+se limpio la cab y items
+23/01/2020 16:10:58 >> 
+
+se limpio la cab y items
+23/01/2020 16:26:57 >> 
+
+se limpio la cab y items
+23/01/2020 16:49:50 >> 
+
+se limpio la cab y items
+23/01/2020 16:50:01 >> 
+
+se limpio la cab y items
+23/01/2020 16:53:27 >> 
+
+se limpio la cab y items
+23/01/2020 16:58:25 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 16:58:26 >> Se pide cab  /keys:
+Cookie: SAP_SESSIONID_O4D_110=Y0peI7xhVElviV81srgyoJF9lJE-ARHqs1YAFj46pE8%3d
+x-csrf-token: mkvNcdc32jpbM7Z5g4YKHA==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 17:02:37 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 17:02:38 >> Se pide cab  /keys:
+Cookie: SAP_SESSIONID_O4D_110=9b31ycxCe_Bg4Ozqlt11WieYBg8-AhHqs38AFj46pE8%3d
+x-csrf-token: -5NBD0_VoS1oz4pRduE3dg==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 18:28:45 >> 
+
+se limpio la cab y items
+23/01/2020 18:28:55 >> 
+
+se limpio la cab y items
+23/01/2020 18:29:11 >> 
+
+se limpio la cab y items
+23/01/2020 18:31:44 >> 
+
+se limpio la cab y items
+23/01/2020 18:32:35 >> 
+
+se limpio la cab y items
+23/01/2020 18:39:04 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 18:39:05 >> Se pide cab  /keys:
+Cookie: SAP_SESSIONID_O4D_110=GFl-SjD-T792hHXyM3YLxqEjfE8-DxHqto4AFj46pE8%3d
+x-csrf-token: f8WrDtg_DQ5_P4sLWBsAKQ==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 18:49:46 >> 
+
+se limpio la cab y items
+23/01/2020 18:49:51 >> 
+
+se limpio la cab y items
+23/01/2020 18:50:05 >> 
+
+se limpio la cab y items
+23/01/2020 18:50:13 >> 
+
+se limpio la cab y items
+23/01/2020 18:50:23 >> 
+
+se limpio la cab y items
+23/01/2020 18:50:41 >> 
+
+se limpio la cab y items
+23/01/2020 18:55:31 >> 
+
+se limpio la cab y items
+23/01/2020 18:57:05 >> 
+
+se limpio la cab y items
+23/01/2020 18:57:16 >> 
+
+se limpio la cab y items
+23/01/2020 18:57:22 >> 
+
+se limpio la cab y items
+23/01/2020 18:58:07 >> 
+
+se limpio la cab y items
+23/01/2020 18:59:39 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 18:59:40 >> Se pide cab  /keys:
+Cookie: SAP_SESSIONID_O4D_110=S8WU7JErsmA8fWNc9QU_E4GFD9s-EhHqty8AFj46pE8%3d
+x-csrf-token: ClqkSyJt17R6A1UGBTwnRw==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 19:38:54 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 19:38:56 >> Se pide cab  /keys:
+Cookie: SAP_SESSIONID_O4D_110=3MVNcs0rUbM9JFcOKwJwTfzcjhE-FxHquHoAFj46pE8%3d
+x-csrf-token: XmI0pmY2r7L7tviZmfSf_A==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection?sap-client=110
+23/01/2020 19:38:56 >> Cab OK con url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM
+23/01/2020 19:38:58 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:38:59 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=BWWJP2k6ocJrJTGyE3u-DP96iOo-FxHquHoAFj46pE8%3d
+x-csrf-token: ukdYpvisy06yPXyhJGWDOg==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:38:59 >> Error :
+{"code":"ZMM_PADRON_DIGITAL\/010","message":{"lang":"es","value":"El per\u00edodo debe ser igual o mayor al actual"},"innererror":{"application":{"component_id":"CA-EPT-BRC-GBI","service_namespace":"\/SAP\/","service_id":"ZMM_API_PRES_DIGITAL_SRV","service_version":"0001"},"transactionid":"F7B0CD7289120090E005E0A58345127E","timestamp":"","Error_Resolution":{"SAP_Transaction":"","SAP_Note":"See SAP Note 1797736 for error analysis (https:\/\/service.sap.com\/sap\/support\/notes\/1797736)"},"errordetails":[{"code":"ZMM_PADRON_DIGITAL\/010","message":"El per\u00edodo debe ser igual o mayor al actual","propertyref":"","severity":"error","target":""},{"code":"\/IWBEP\/CX_MGW_BUSI_EXCEPTION","message":"Precondition failed","longtext_url":"\/sap\/opu\/odata\/iwbep\/message_text;o=LOCAL\/","propertyref":"","severity":"error","target":""}]}}
+ url: http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:39:47 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:39:48 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=zfD3G4oZJdm9hZbZnLP0mRxZr48-GBHquH4AFj46pE8%3d
+x-csrf-token: 0W6Pq6UZrNhWizmNHTFLVQ==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:39:48 >> Error :
+{"code":"ZMM_PADRON_DIGITAL\/010","message":{"lang":"es","value":"El per\u00edodo debe ser igual o mayor al actual"},"innererror":{"application":{"component_id":"CA-EPT-BRC-GBI","service_namespace":"\/SAP\/","service_id":"ZMM_API_PRES_DIGITAL_SRV","service_version":"0001"},"transactionid":"F7B0CD7289120090E005E0A58345128C","timestamp":"","Error_Resolution":{"SAP_Transaction":"","SAP_Note":"See SAP Note 1797736 for error analysis (https:\/\/service.sap.com\/sap\/support\/notes\/1797736)"},"errordetails":[{"code":"ZMM_PADRON_DIGITAL\/010","message":"El per\u00edodo debe ser igual o mayor al actual","propertyref":"","severity":"error","target":""},{"code":"\/IWBEP\/CX_MGW_BUSI_EXCEPTION","message":"Precondition failed","longtext_url":"\/sap\/opu\/odata\/iwbep\/message_text;o=LOCAL\/","propertyref":"","severity":"error","target":""}]}}
+ url: http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:40:35 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:40:36 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=sD55wANtectTkADbo_wv2Dk6gM8-GBHquH8AFj46pE8%3d
+x-csrf-token: t4-axV3cQx6nm3aYmjQ4DA==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:40:36 >> Error :
+{"code":"ZMM_PADRON_DIGITAL\/010","message":{"lang":"es","value":"El per\u00edodo debe ser igual o mayor al actual"},"innererror":{"application":{"component_id":"CA-EPT-BRC-GBI","service_namespace":"\/SAP\/","service_id":"ZMM_API_PRES_DIGITAL_SRV","service_version":"0001"},"transactionid":"F7B0CD7289120090E005E0A58345129E","timestamp":"","Error_Resolution":{"SAP_Transaction":"","SAP_Note":"See SAP Note 1797736 for error analysis (https:\/\/service.sap.com\/sap\/support\/notes\/1797736)"},"errordetails":[{"code":"ZMM_PADRON_DIGITAL\/010","message":"El per\u00edodo debe ser igual o mayor al actual","propertyref":"","severity":"error","target":""},{"code":"\/IWBEP\/CX_MGW_BUSI_EXCEPTION","message":"Precondition failed","longtext_url":"\/sap\/opu\/odata\/iwbep\/message_text;o=LOCAL\/","propertyref":"","severity":"error","target":""}]}}
+ url: http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:41:17 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:41:18 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=XafaLNwPWMzCNVbnfY9zl1I-N6E-GBHquIAAFj46pE8%3d
+x-csrf-token: uf2523qDjjVJ9kiMG3PmFA==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:41:18 >> Item OK con url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ITEMCollection(binary'00163E3AA44F1EEA8FC30A671092B880')
+23/01/2020 19:48:10 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:48:11 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=rd0ieTWRa5gllfZTw7Z5MEhV6K8-GRHquKsAFj46pE8%3d
+x-csrf-token: fqyK52M3J-y66yFSLMv_aA==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:48:11 >> Error :
+{"code":"ZMM_PADRON_DIGITAL\/010","message":{"lang":"es","value":"El per\u00edodo debe ser igual o mayor al actual"},"innererror":{"application":{"component_id":"CA-EPT-BRC-GBI","service_namespace":"\/SAP\/","service_id":"ZMM_API_PRES_DIGITAL_SRV","service_version":"0001"},"transactionid":"F7B0CD7289120100E005E0A5834521F9","timestamp":"","Error_Resolution":{"SAP_Transaction":"","SAP_Note":"See SAP Note 1797736 for error analysis (https:\/\/service.sap.com\/sap\/support\/notes\/1797736)"},"errordetails":[{"code":"ZMM_PADRON_DIGITAL\/010","message":"El per\u00edodo debe ser igual o mayor al actual","propertyref":"","severity":"error","target":""},{"code":"\/IWBEP\/CX_MGW_BUSI_EXCEPTION","message":"Precondition failed","longtext_url":"\/sap\/opu\/odata\/iwbep\/message_text;o=LOCAL\/","propertyref":"","severity":"error","target":""}]}}
+ url: http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:51:24 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:51:25 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=QrlN-2gyd3r_vGoUTjdMYbwPQtc-GRHquM4AFj46pE8%3d
+x-csrf-token: 7im7ujctkDgCZUQwQy6WMQ==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:51:25 >> Error :
+{"code":"ZMM_PADRON_DIGITAL\/002","message":{"lang":"es","value":"Ingresar \u00fanicamente medicamentos ambulatorios"},"innererror":{"application":{"component_id":"CA-EPT-BRC-GBI","service_namespace":"\/SAP\/","service_id":"ZMM_API_PRES_DIGITAL_SRV","service_version":"0001"},"transactionid":"F7B0CD72891200F0E005E0A5834A8E02","timestamp":"","Error_Resolution":{"SAP_Transaction":"","SAP_Note":"See SAP Note 1797736 for error analysis (https:\/\/service.sap.com\/sap\/support\/notes\/1797736)"},"errordetails":[{"code":"ZMM_PADRON_DIGITAL\/002","message":"Ingresar \u00fanicamente medicamentos ambulatorios","propertyref":"","severity":"error","target":""},{"code":"\/IWBEP\/CX_MGW_BUSI_EXCEPTION","message":"Precondition failed","longtext_url":"\/sap\/opu\/odata\/iwbep\/message_text;o=LOCAL\/","propertyref":"","severity":"error","target":""}]}}
+ url: http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:55:06 >> Se piden keys por GET con la url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:55:07 >> Se agrega item  /keys1:
+Cookie: SAP_SESSIONID_O4D_110=3n2zbok3PVhx6DA23x4gw0BRRWM-GhHquPoAFj46pE8%3d
+x-csrf-token: gFCsmHuXyvIi3_FlDAgsHw==
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM?sap-client=110
+23/01/2020 19:55:07 >> Item OK con url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ITEMCollection(binary'00163E3AA44F1EEA8FC3482B71F3F8FA')
+23/01/2020 19:56:00 >> 
+Sync. afiliado:
+{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PACIENTESet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PACIENTESet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PACIENTE"},"Dni":"56354516","Cuil":"00000000000","Apellido":"GOMEZ","Nombre":"EZEQUIEL ELIAS","FechaNacimiento":"\/Date(1500508800000)\/","Werks":"SA04","Lgort":"0530","Discapacitado":false,"ValHastaCertDisc":null,"EstadoJud":"","ValHastaExped":null,"Dependiente":false,"Telefono1":"","Telefono2":"","Direccion":"TRIUNVIRATO 563","Localidad":"LIBERTAD","Provincia":"01","CodPostal":"1722","Sexo":"M","Email":"","Pami":"","ObraSocial":"","Basa":"","Cgba":"","CodigoHiv":"","NroBeneficiario":"000000000000000","GradoParentesco":"","Modulos":"","Ugl":"","FechaAlta":"\/Date(1540857600000)\/","FechaModificacion":null,"FechaBaja":null,"Detalle":[{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PRES_HIST"},"Dni":"56354516","Matnr":"1935","MatnrDescr":"enalapril 10 mg comp.x 150","MesInicio":"01","AnioInicio":"2020","Estado":"P","EstadoDescr":"Pendiente","Grupo":"","CantidadSPresentacion":"0001","MesFinal":"02","AnioFinal":"2020","Patologia":"56","PatologiaDescr":"DBT II","Descuento":"070","Farmacia":"11111","FarmaciaDescr":"MATANZA","FechaAlta":"\/Date(1578441600000)\/","UsuarioAlta":"33656002","Autorizacion":"","Comentario":"","ComentarioUsuario":"","ReferenciaReceta":"","Observacion":"alalal","ComentarioStatus":"","AceptadoCondi":false,"Etico":false},{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PRES_HIST"},"Dni":"56354516","Matnr":"2325","MatnrDescr":"GASA HIDROFILA TUBULAR","MesInicio":"01","AnioInicio":"2020","Estado":"P","EstadoDescr":"Pendiente","Grupo":"","CantidadSPresentacion":"0001","MesFinal":"02","AnioFinal":"2020","Patologia":"56","PatologiaDescr":"DBT II","Descuento":"040","Farmacia":"11111","FarmaciaDescr":"MATANZA","FechaAlta":"\/Date(1578441600000)\/","UsuarioAlta":"33656002","Autorizacion":"","Comentario":"","ComentarioUsuario":"","ReferenciaReceta":"","Observacion":"tercero","ComentarioStatus":"","AceptadoCondi":false,"Etico":false},{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PRES_HIST"},"Dni":"56354516","Matnr":"2326","MatnrDescr":"GASA HIDROFILA TUBULAR","MesInicio":"01","AnioInicio":"2020","Estado":"P","EstadoDescr":"Pendiente","Grupo":"","CantidadSPresentacion":"0001","MesFinal":"02","AnioFinal":"2020","Patologia":"49","PatologiaDescr":"DBT I","Descuento":"040","Farmacia":"11111","FarmaciaDescr":"MATANZA","FechaAlta":"\/Date(1578441600000)\/","UsuarioAlta":"33656002","Autorizacion":"","Comentario":"","ComentarioUsuario":"","ReferenciaReceta":"","Observacion":"segunda","ComentarioStatus":"","AceptadoCondi":false,"Etico":false},{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PRES_HIST"},"Dni":"56354516","Matnr":"2658","MatnrDescr":"ibuprofeno 400 mg comp.x 10","MesInicio":"01","AnioInicio":"2020","Estado":"P","EstadoDescr":"Pendiente","Grupo":"","CantidadSPresentacion":"0001","MesFinal":"02","AnioFinal":"2020","Patologia":"56","PatologiaDescr":"DBT II","Descuento":"040","Farmacia":"11111","FarmaciaDescr":"MATANZA","FechaAlta":"\/Date(1578441600000)\/","UsuarioAlta":"33656002","Autorizacion":"","Comentario":"","ComentarioUsuario":"","ReferenciaReceta":"","Observacion":"lalal","ComentarioStatus":"","AceptadoCondi":false,"Etico":false},{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PRES_HIST"},"Dni":"56354516","Matnr":"2659","MatnrDescr":"ibuprofeno 400 mg comp.x 100","MesInicio":"01","AnioInicio":"2020","Estado":"P","EstadoDescr":"Pendiente","Grupo":"","CantidadSPresentacion":"0001","MesFinal":"02","AnioFinal":"2020","Patologia":"56","PatologiaDescr":"DBT II","Descuento":"040","Farmacia":"11111","FarmaciaDescr":"MATANZA","FechaAlta":"\/Date(1578355200000)\/","UsuarioAlta":"33656002","Autorizacion":"","Comentario":"","ComentarioUsuario":"","ReferenciaReceta":"","Observacion":"primero","ComentarioStatus":"","AceptadoCondi":false,"Etico":false},{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PRES_HIST"},"Dni":"56354516","Matnr":"3090","MatnrDescr":"loperamida 10 mg comp.x 20","MesInicio":"01","AnioInicio":"2020","Estado":"P","EstadoDescr":"Pendiente","Grupo":"","CantidadSPresentacion":"0001","MesFinal":"02","AnioFinal":"2020","Patologia":"56","PatologiaDescr":"DBT II","Descuento":"040","Farmacia":"11111","FarmaciaDescr":"MATANZA","FechaAlta":"\/Date(1578441600000)\/","UsuarioAlta":"33656002","Autorizacion":"","Comentario":"","ComentarioUsuario":"","ReferenciaReceta":"","Observacion":"primera","ComentarioStatus":"","AceptadoCondi":false,"Etico":false},{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PRES_HIST"},"Dni":"56354516","Matnr":"3092","MatnrDescr":"loperamida 2 mg comp.x 12","MesInicio":"01","AnioInicio":"2020","Estado":"P","EstadoDescr":"Pendiente","Grupo":"","CantidadSPresentacion":"0001","MesFinal":"02","AnioFinal":"2020","Patologia":"49","PatologiaDescr":"DBT I","Descuento":"040","Farmacia":"11111","FarmaciaDescr":"MATANZA","FechaAlta":"\/Date(1578441600000)\/","UsuarioAlta":"33656002","Autorizacion":"","Comentario":"","ComentarioUsuario":"","ReferenciaReceta":"","Observacion":"primero 3","ComentarioStatus":"","AceptadoCondi":false,"Etico":false},{"__metadata":{"id":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","uri":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PADRON_DIGITAL_SRV\/PRES_HISTSet('56354516')","type":"ZMM_API_PADRON_DIGITAL_SRV.PRES_HIST"},"Dni":"56354516","Matnr":"3093","MatnrDescr":"loperamida 2 mg comp.x 20","MesInicio":"01","AnioInicio":"2020","Estado":"P","EstadoDescr":"Pendiente","Grupo":"","CantidadSPresentacion":"0001","MesFinal":"02","AnioFinal":"2020","Patologia":"56","PatologiaDescr":"DBT II","Descuento":"040","Farmacia":"11111","FarmaciaDescr":"MATANZA","FechaAlta":"\/Date(1578355200000)\/","UsuarioAlta":"33656002","Autorizacion":"","Comentario":"","ComentarioUsuario":"","ReferenciaReceta":"","Observacion":"segundo","ComentarioStatus":"","AceptadoCondi":false,"Etico":false}],"InternacionDomiciliaria":false}
+ var datos:
+[{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8FC30A671092B880')","id":"00163E3AA44F1EEA8FC2FFD4CBE3F87A","key":"ABY+OqRPHuqPwv\/Uy+P4eg==","item":{"POSICION":"0001","MATNR":"000000000000001724","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"56","DESCUENTO":"040","OBSERVACION":"","USUARIO_CREACION":"USER2","mat_desc":"diacereina 50 mg caps.x 60","pat_desc":"DBT II"}},{"urlItem":"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ITEMCollection(binary'00163E3AA44F1EEA8FC3482B71F3F8FA')","id":"00163E3AA44F1EEA8FC2FFD4CBE3F87A","key":"ABY+OqRPHuqPwv\/Uy+P4eg==","item":{"POSICION":"0002","MATNR":"000000000000002724","MES_INICIO":"01","ANIO_INICIO":"2020","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"1","PATOLOGIA":"56","DESCUENTO":"040","OBSERVACION":"segundo","USUARIO_CREACION":"USER2","mat_desc":"insulina glargina 300U\/ml lap x3x1.5ml","pat_desc":"DBT II"}}]
+23/01/2020 19:56:01 >> Se ejecura sync de url:
+http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/SYNC?NODE_ID=binary%2700163E3AA44F1EEA8FC2FFD4CBE3F87A%27&ENTITY_NAME=%27ROOT%27&PRE_ID=binary%2700163E3AA44F1EEA8FC2FFD4CBE3F87A%27&sap-client=110
+23/01/2020 19:56:01 >> Resultado: 
+23/01/2020 19:56:01 >> {"d":{"__metadata":{"id":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')","uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')","type":"ZMM_API_PRES_DIGITAL_SRV.ROOT"},"KEY":"ABY+OqRPHuqPwv/Uy+P4eg==","PARENT_KEY":"AAAAAAAAAAAAAAAAAAAAAA==","ROOT_KEY":"ABY+OqRPHuqPwv/Uy+P4eg==","PRE_ID":"00163E3AA44F1EEA8FC2FFD4CBE3F87A","DNI":"56354516","CENTRO":"SA04","USUARIO_CREACION":"USER2","FECHA_CREACION":"20200123","HORA_CREACION":"163856","USUARIO_MODIFICACION":"","FECHA_MODIFICACION":"","HORA_MODIFICACION":"","TO_ITE_ITEM":{"__deferred":{"uri":"http://vholmo4dci.hec.grupoolmos.com.ar:8000/sap/opu/odata/sap/ZMM_API_PRES_DIGITAL_SRV/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')/TO_ITE_ITEM"}}}}
+23/01/2020 19:56:01 >> Sync. resultado:
+"{\"d\":{\"__metadata\":{\"id\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')\",\"uri\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')\",\"type\":\"ZMM_API_PRES_DIGITAL_SRV.ROOT\"},\"KEY\":\"ABY+OqRPHuqPwv\/Uy+P4eg==\",\"PARENT_KEY\":\"AAAAAAAAAAAAAAAAAAAAAA==\",\"ROOT_KEY\":\"ABY+OqRPHuqPwv\/Uy+P4eg==\",\"PRE_ID\":\"00163E3AA44F1EEA8FC2FFD4CBE3F87A\",\"DNI\":\"56354516\",\"CENTRO\":\"SA04\",\"USUARIO_CREACION\":\"USER2\",\"FECHA_CREACION\":\"20200123\",\"HORA_CREACION\":\"163856\",\"USUARIO_MODIFICACION\":\"\",\"FECHA_MODIFICACION\":\"\",\"HORA_MODIFICACION\":\"\",\"TO_ITE_ITEM\":{\"__deferred\":{\"uri\":\"http:\/\/vholmo4dci.hec.grupoolmos.com.ar:8000\/sap\/opu\/odata\/sap\/ZMM_API_PRES_DIGITAL_SRV\/ROOTCollection(binary'00163E3AA44F1EEA8FC2FFD4CBE3F87A')\/TO_ITE_ITEM\"}}}}"
+23/01/2020 19:56:01 >> 
+
+se limpio la cab y items
+23/01/2020 20:44:48 >> 
+
+se limpio la cab y items
+03/02/2020 16:12:40 >> 
+
+se limpio la cab y items
+03/02/2020 16:13:27 >> 
+
+se limpio la cab y items
+03/02/2020 16:13:30 >> 
+
+se limpio la cab y items
+03/02/2020 16:13:32 >> 
+
+se limpio la cab y items
+03/02/2020 16:13:53 >> 
+
+se limpio la cab y items
+03/02/2020 16:13:56 >> 
+
+se limpio la cab y items
+03/02/2020 16:14:04 >> 
+
+se limpio la cab y items
+03/02/2020 16:17:46 >> 
+
+se limpio la cab y items
+03/02/2020 16:18:36 >> 
+
+se limpio la cab y items
+03/02/2020 16:18:58 >> 
+
+se limpio la cab y items
+03/02/2020 16:21:17 >> 
+
+se limpio la cab y items
+09/03/2020 21:21:19 >> 
+
+se limpio la cab y items
+10/03/2020 18:30:04 >> 
+
+se limpio la cab y items
+10/03/2020 18:33:40 >> 
+
+se limpio la cab y items
+11/03/2020 14:20:30 >> 
+
+se limpio la cab y items
+11/03/2020 14:23:43 >> 
+
+se limpio la cab y items
+11/03/2020 14:23:53 >> 
+
+se limpio la cab y items
+11/03/2020 14:41:30 >> 
+
+se limpio la cab y items
+11/03/2020 14:41:51 >> 
+
+se limpio la cab y items
+11/03/2020 14:42:44 >> 
+
+se limpio la cab y items
+11/03/2020 14:43:42 >> 
+
+se limpio la cab y items
+11/03/2020 14:48:55 >> 
+
+se limpio la cab y items
+11/03/2020 14:49:59 >> 
+
+se limpio la cab y items
+11/03/2020 14:50:17 >> 
+
+se limpio la cab y items
+11/03/2020 14:50:34 >> 
+
+se limpio la cab y items
+11/03/2020 15:03:38 >> 
+
+se limpio la cab y items
+11/03/2020 15:04:55 >> 
+
+se limpio la cab y items
+11/03/2020 15:05:05 >> 
+
+se limpio la cab y items
+11/03/2020 17:04:53 >> 
+
+se limpio la cab y items
+11/03/2020 17:05:09 >> 
+
+se limpio la cab y items
+11/03/2020 17:05:20 >> 
+
+se limpio la cab y items
+11/03/2020 17:06:06 >> 
+
+se limpio la cab y items
+11/03/2020 17:06:29 >> 
+
+se limpio la cab y items
+11/03/2020 17:07:04 >> 
+
+se limpio la cab y items
+11/03/2020 17:07:45 >> 
+
+se limpio la cab y items
+11/03/2020 17:08:02 >> 
+
+se limpio la cab y items
+11/03/2020 17:08:29 >> 
+
+se limpio la cab y items
+11/03/2020 17:12:03 >> 
+
+se limpio la cab y items
+11/03/2020 17:15:55 >> 
+
+se limpio la cab y items
+13/03/2020 15:34:52 >> 
+
+se limpio la cab y items
+13/03/2020 19:34:44 >> 
+
+se limpio la cab y items
+25/03/2020 13:54:25 >> 
+
+se limpio la cab y items
+25/03/2020 17:14:33 >> 
+
+se limpio la cab y items
+25/03/2020 18:17:01 >> 
+
+se limpio la cab y items
+25/03/2020 18:17:43 >> 
+
+se limpio la cab y items
+25/03/2020 18:17:50 >> 
+
+se limpio la cab y items
+25/03/2020 18:21:16 >> 
+
+se limpio la cab y items
+25/03/2020 18:21:25 >> 
+
+se limpio la cab y items
+25/03/2020 18:21:48 >> 
+
+se limpio la cab y items
+25/03/2020 18:27:09 >> 
+
+se limpio la cab y items
+25/03/2020 18:27:26 >> 
+
+se limpio la cab y items
+25/03/2020 20:43:32 >> 
+
+se limpio la cab y items
+26/03/2020 04:00:51 >> 
+
+se limpio la cab y items
+26/03/2020 13:30:45 >> 
+
+se limpio la cab y items
+26/03/2020 13:45:56 >> 
+
+se limpio la cab y items
+26/03/2020 13:58:05 >> 
+
+se limpio la cab y items
+26/03/2020 14:02:18 >> 
+
+se limpio la cab y items
+26/03/2020 14:46:45 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"segundo","rec_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 14:57:26 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"segundo","rec_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 14:58:30 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"segundo","rec_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:23:22 >> 
+
+se limpio la cab y items
+26/03/2020 15:24:32 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:25:06 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:48:40 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:49:35 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:51:02 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:51:56 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:52:14 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:52:47 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:53:01 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 15:53:17 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 17:17:58 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 17:19:45 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":null,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 17:19:47 >> Sync. resultado:
+"Se guardo la receta N\u00b0: "
+26/03/2020 17:19:48 >> 
+
+se limpio la cab y items
+26/03/2020 17:20:13 >> 
+
+se limpio la cab y items
+26/03/2020 17:20:46 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 17:20:48 >> Sync. resultado:
+"Se guardo la receta N\u00b0: "
+26/03/2020 17:20:52 >> 
+
+se limpio la cab y items
+26/03/2020 17:22:16 >> 
+
+se limpio la cab y items
+26/03/2020 17:23:11 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"segundo","rec_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT 2"}]
+26/03/2020 18:19:04 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":null,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0","updated_at":"2020-03-26 17:23:14","created_at":"2020-03-26 17:23:14"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"segundo","rec_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT 2"}]
+26/03/2020 18:20:40 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":null,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","rec_estado":"0","updated_at":"2020-03-26 17:23:14","created_at":"2020-03-26 17:23:14"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"segundo","rec_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT 2"}]
+26/03/2020 18:21:29 >> 
+
+se limpio la cab y items
+26/03/2020 18:22:27 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT 2"}]
+26/03/2020 18:26:43 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":null,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","red_estado":"0","updated_at":"2020-03-26 18:22:29","created_at":"2020-03-26 18:22:29"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT 2"}]
+26/03/2020 18:26:45 >> Sync. resultado:
+"Se guardo la receta N\u00b0: "
+26/03/2020 18:26:45 >> 
+
+se limpio la cab y items
+26/03/2020 18:29:54 >> 
+
+se limpio la cab y items
+26/03/2020 18:30:58 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000002","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000002","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 50","pat_desc":"DBT I"}]
+26/03/2020 18:31:01 >> Sync. resultado:
+"Se guardo la receta N\u00b0: 5"
+26/03/2020 18:31:04 >> 
+
+se limpio la cab y items
+26/03/2020 19:54:32 >> 
+
+se limpio la cab y items
+26/03/2020 19:56:55 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+26/03/2020 19:56:58 >> Sync. resultado:
+"Se guardo la receta N\u00b0: 6"
+26/03/2020 19:56:58 >> 
+
+se limpio la cab y items
+26/03/2020 21:46:06 >> 
+
+se limpio la cab y items
+26/03/2020 21:48:18 >> 
+
+se limpio la cab y items
+26/03/2020 21:58:24 >> 
+
+se limpio la cab y items
+26/03/2020 22:03:59 >> 
+
+se limpio la cab y items
+27/03/2020 00:44:36 >> 
+
+se limpio la cab y items
+27/03/2020 00:45:12 >> 
+
+se limpio la cab y items
+27/03/2020 00:45:37 >> 
+
+se limpio la cab y items
+27/03/2020 00:48:49 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000002","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"primera","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000002","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"primera","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 50","pat_desc":"DBT 2"},{"POSICION":"0002","INSUMO":"000000000000000004","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000004","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 50","pat_desc":"DBT 2"},{"POSICION":"0003","INSUMO":"000000000000000005","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"4","OBSERVACION":"tercero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0003","red_ins_id":"000000000000000005","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"4","red_obs":"tercero","red_estado":"0"},"mat_desc":"\u00f1and\u00fa","pat_desc":"\u00f1and\u00fa"}]
+27/03/2020 00:48:53 >> Sync. resultado:
+"Se guardo la receta N\u00b0: 7"
+27/03/2020 00:48:53 >> 
+
+se limpio la cab y items
+27/03/2020 00:58:25 >> 
+
+se limpio la cab y items
+27/03/2020 13:07:22 >> 
+
+se limpio la cab y items
+27/03/2020 13:08:30 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT 2"}]
+27/03/2020 13:13:54 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT 2"}]
+27/03/2020 13:13:57 >> 
+
+se limpio la cab y items
+27/03/2020 13:15:15 >> 
+
+se limpio la cab y items
+27/03/2020 13:15:52 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000002","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000002","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 50","pat_desc":"DBT I"}]
+27/03/2020 13:15:55 >> 
+
+se limpio la cab y items
+27/03/2020 13:16:32 >> 
+
+se limpio la cab y items
+27/03/2020 17:07:48 >> 
+
+se limpio la cab y items
+27/03/2020 17:10:06 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000002","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000002","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 50","pat_desc":"DBT I"}]
+27/03/2020 17:10:08 >> Sync. resultado:
+10
+27/03/2020 17:10:09 >> 
+
+se limpio la cab y items
+27/03/2020 17:15:02 >> 
+
+se limpio la cab y items
+27/03/2020 17:41:12 >> 
+
+se limpio la cab y items
+27/03/2020 17:42:50 >> 
+
+se limpio la cab y items
+27/03/2020 18:34:22 >> 
+
+se limpio la cab y items
+27/03/2020 19:09:49 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000002","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000002","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 50","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"202003","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"2","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_periodo_mes":"2","red_anomes_ini":"202003","red_pat_id":"2","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT 2"}]
+27/03/2020 19:09:52 >> Sync. resultado:
+11
+27/03/2020 19:09:53 >> 
+
+se limpio la cab y items
+27/03/2020 21:35:29 >> 
+
+se limpio la cab y items
+30/03/2020 17:20:34 >> 
+
+se limpio la cab y items
+30/03/2020 19:32:34 >> 
+
+se limpio la cab y items
+31/03/2020 00:25:58 >> 
+
+se limpio la cab y items
+31/03/2020 00:29:58 >> 
+
+se limpio la cab y items
+31/03/2020 00:54:37 >> 
+
+se limpio la cab y items
+31/03/2020 03:45:17 >> 
+
+se limpio la cab y items
+01/04/2020 21:14:35 >> 
+
+se limpio la cab y items
+01/04/2020 21:36:25 >> 
+
+se limpio la cab y items
+02/04/2020 01:47:31 >> 
+
+se limpio la cab y items
+02/04/2020 01:51:30 >> 
+
+se limpio la cab y items
+02/04/2020 01:59:06 >> 
+
+se limpio la cab y items
+02/04/2020 03:33:54 >> 
+
+se limpio la cab y items
+02/04/2020 04:14:13 >> 
+
+se limpio la cab y items
+02/04/2020 04:21:34 >> 
+
+se limpio la cab y items
+02/04/2020 04:46:18 >> 
+
+se limpio la cab y items
+02/04/2020 04:50:41 >> 
+
+se limpio la cab y items
+02/04/2020 04:52:52 >> 
+
+se limpio la cab y items
+02/04/2020 05:09:42 >> 
+
+se limpio la cab y items
+02/04/2020 05:15:57 >> 
+
+se limpio la cab y items
+02/04/2020 13:12:00 >> 
+
+se limpio la cab y items
+02/04/2020 13:15:10 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000004","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000004","red_ins_cant":"1","red_pat_id":"1","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 50","pat_desc":"DBT I"}]
+02/04/2020 13:15:13 >> Sync. resultado:
+13
+02/04/2020 13:15:13 >> 
+
+se limpio la cab y items
+02/04/2020 13:23:07 >> 
+
+se limpio la cab y items
+02/04/2020 13:23:45 >> 
+
+se limpio la cab y items
+02/04/2020 13:24:55 >> 
+
+se limpio la cab y items
+02/04/2020 13:47:16 >> 
+
+se limpio la cab y items
+02/04/2020 13:54:25 >> 
+
+se limpio la cab y items
+02/04/2020 13:54:44 >> 
+
+se limpio la cab y items
+02/04/2020 13:55:32 >> 
+
+se limpio la cab y items
+02/04/2020 13:56:14 >> 
+
+se limpio la cab y items
+02/04/2020 13:56:56 >> 
+
+se limpio la cab y items
+02/04/2020 13:57:10 >> 
+
+se limpio la cab y items
+02/04/2020 13:57:18 >> 
+
+se limpio la cab y items
+02/04/2020 13:58:11 >> 
+
+se limpio la cab y items
+02/04/2020 14:09:44 >> 
+
+se limpio la cab y items
+02/04/2020 14:12:48 >> 
+
+se limpio la cab y items
+02/04/2020 14:14:07 >> 
+
+se limpio la cab y items
+02/04/2020 14:22:52 >> 
+
+se limpio la cab y items
+02/04/2020 14:23:24 >> 
+
+se limpio la cab y items
+02/04/2020 18:27:24 >> 
+
+se limpio la cab y items
+02/04/2020 18:51:16 >> 
+
+se limpio la cab y items
+02/04/2020 18:52:57 >> 
+
+se limpio la cab y items
+02/04/2020 18:53:01 >> 
+
+se limpio la cab y items
+02/04/2020 18:53:08 >> 
+
+se limpio la cab y items
+02/04/2020 18:55:45 >> 
+
+se limpio la cab y items
+02/04/2020 19:16:18 >> 
+
+se limpio la cab y items
+02/04/2020 19:17:15 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 19:17:18 >> 
+
+se limpio la cab y items
+02/04/2020 19:18:37 >> 
+
+se limpio la cab y items
+02/04/2020 19:19:13 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero por 3 meses","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primero por 3 meses","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 19:19:16 >> 
+
+se limpio la cab y items
+02/04/2020 19:19:48 >> 
+
+se limpio la cab y items
+02/04/2020 19:20:18 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 19:20:21 >> 
+
+se limpio la cab y items
+02/04/2020 19:21:50 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"2","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"2","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT 2"},{"POSICION":"0002","INSUMO":"000000000000000004","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000004","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"2","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 50","pat_desc":"DBT 2"}]
+02/04/2020 19:21:55 >> Sync. resultado:
+null
+02/04/2020 19:21:55 >> 
+
+se limpio la cab y items
+02/04/2020 19:23:08 >> 
+
+se limpio la cab y items
+02/04/2020 19:23:39 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 19:23:43 >> Sync. resultado:
+null
+02/04/2020 19:23:43 >> 
+
+se limpio la cab y items
+02/04/2020 19:29:28 >> 
+
+se limpio la cab y items
+02/04/2020 19:30:05 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000004","MES_INICIO":"","CANTIDAD_MENSUAL":"3","CANTIDAD_MESES":"","PATOLOGIA":"3","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000004","red_ins_cant":"3","red_vigencia":"","red_anomes_ini":"","red_pat_id":"3","red_obs":"primero","red_estado":"0"},"mat_desc":"enalapril 10 mg x 50","pat_desc":"CANCER DE PULMON"}]
+02/04/2020 19:30:08 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","updated_at":"2020-04-02 19:30:06","created_at":"2020-04-02 19:30:06","rec_id":23},{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-05-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","updated_at":"2020-04-02 19:30:07","created_at":"2020-04-02 19:30:07","rec_id":24}]
+02/04/2020 19:30:08 >> 
+
+se limpio la cab y items
+02/04/2020 19:34:49 >> 
+
+se limpio la cab y items
+02/04/2020 19:35:16 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000003","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"2","OBSERVACION":"pri","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000003","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"2","red_obs":"pri","red_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT 2"}]
+02/04/2020 19:35:19 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","updated_at":"2020-04-02 19:35:18","created_at":"2020-04-02 19:35:18","rec_id":25},{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-05-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","updated_at":"2020-04-02 19:35:19","created_at":"2020-04-02 19:35:19","rec_id":26}]
+02/04/2020 19:35:20 >> 
+
+se limpio la cab y items
+02/04/2020 19:41:14 >> 
+
+se limpio la cab y items
+02/04/2020 19:41:44 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 19:41:48 >> 
+
+se limpio la cab y items
+02/04/2020 20:12:25 >> 
+
+se limpio la cab y items
+02/04/2020 20:13:24 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 20:13:28 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","updated_at":"2020-04-02 20:13:26","created_at":"2020-04-02 20:13:26","rec_id":29},{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-05-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","updated_at":"2020-04-02 20:13:26","created_at":"2020-04-02 20:13:26","rec_id":30}]
+02/04/2020 20:13:28 >> 
+
+se limpio la cab y items
+02/04/2020 20:18:26 >> 
+
+se limpio la cab y items
+02/04/2020 20:19:01 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primeor","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primeor","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 20:19:05 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","updated_at":"2020-04-02 20:19:03","created_at":"2020-04-02 20:19:03","rec_id":31},{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-05-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","updated_at":"2020-04-02 20:19:04","created_at":"2020-04-02 20:19:04","rec_id":32},{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-06-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","updated_at":"2020-04-02 20:19:04","created_at":"2020-04-02 20:19:04","rec_id":33}]
+02/04/2020 20:19:06 >> 
+
+se limpio la cab y items
+02/04/2020 20:33:44 >> 
+
+se limpio la cab y items
+02/04/2020 20:47:10 >> 
+
+se limpio la cab y items
+02/04/2020 20:48:54 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 20:48:56 >> 
+
+se limpio la cab y items
+02/04/2020 20:49:37 >> 
+
+se limpio la cab y items
+02/04/2020 20:50:40 >> 
+
+se limpio la cab y items
+02/04/2020 20:51:37 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"},{"POSICION":"0002","INSUMO":"000000000000000003","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0002","red_ins_id":"000000000000000003","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 20:51:45 >> 
+
+se limpio la cab y items
+02/04/2020 20:53:03 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000001","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 20:53:07 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":0,"updated_at":"2020-04-02 20:53:05","created_at":"2020-04-02 20:53:05","rec_id":34},{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-05-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":0,"updated_at":"2020-04-02 20:53:06","created_at":"2020-04-02 20:53:06","rec_id":35}]
+02/04/2020 20:53:08 >> 
+
+se limpio la cab y items
+02/04/2020 20:54:08 >> 
+
+se limpio la cab y items
+02/04/2020 20:54:40 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000004","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"3","OBSERVACION":"uno","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000004","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"3","red_obs":"uno","red_estado":"0"},"mat_desc":"enalapril 10 mg x 50","pat_desc":"CANCER DE PULMON"}]
+02/04/2020 20:54:42 >> 
+
+se limpio la cab y items
+02/04/2020 20:55:51 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"POSICION":"0001","INSUMO":"000000000000000003","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"priemro","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_num_item":"0001","red_ins_id":"000000000000000003","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"priemro","red_estado":"0"},"mat_desc":"enalapril 10 mg x 20","pat_desc":"DBT I"}]
+02/04/2020 20:55:53 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":null,"updated_at":"2020-04-02 20:55:53","created_at":"2020-04-02 20:55:53","rec_id":36}]
+02/04/2020 20:55:54 >> 
+
+se limpio la cab y items
+02/04/2020 21:10:13 >> 
+
+se limpio la cab y items
+02/04/2020 21:27:17 >> 
+
+se limpio la cab y items
+02/04/2020 21:36:27 >> 
+
+se limpio la cab y items
+02/04/2020 21:36:33 >> 
+
+se limpio la cab y items
+02/04/2020 21:42:57 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+{"1":{"INSUMO":"000000000000000004","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"2","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000004","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"2","red_obs":"segundo","red_estado":"0"},"mat_desc":"enalapril 10 mg x 50","pat_desc":"DBT 2"}}
+02/04/2020 21:43:00 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":null,"updated_at":"2020-04-02 21:42:59","created_at":"2020-04-02 21:42:59","rec_id":37}]
+02/04/2020 21:43:00 >> 
+
+se limpio la cab y items
+02/04/2020 21:49:29 >> 
+
+se limpio la cab y items
+02/04/2020 21:49:34 >> 
+
+se limpio la cab y items
+02/04/2020 21:50:47 >> 
+Sync. afiliado:
+{"data":{"pac_id":2,"pac_nombre":"PACIENTE 2","pac_apellido":"APELLIDO 2","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":"1111","pac_dni":"33656001","pac_cuil":"20336560011","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+{"1":{"INSUMO":"000000000000000001","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"1","OBSERVACION":"2","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000001","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"1","red_obs":"2","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg x 20","pat_desc":"DBT I"}}
+02/04/2020 21:50:51 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":2,"updated_at":"2020-04-02 21:50:49","created_at":"2020-04-02 21:50:49","rec_id":38},{"rec_fecha":{},"rec_pac_id":2,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-05-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":2,"updated_at":"2020-04-02 21:50:50","created_at":"2020-04-02 21:50:50","rec_id":39}]
+02/04/2020 21:50:51 >> 
+
+se limpio la cab y items
+02/04/2020 21:55:30 >> 
+
+se limpio la cab y items
+03/04/2020 16:23:11 >> 
+
+se limpio la cab y items
+03/04/2020 17:06:41 >> 
+
+se limpio la cab y items
+03/04/2020 17:11:35 >> 
+
+se limpio la cab y items
+03/04/2020 17:15:57 >> 
+
+se limpio la cab y items
+03/04/2020 17:19:52 >> 
+
+se limpio la cab y items
+03/04/2020 17:19:56 >> 
+
+se limpio la cab y items
+03/04/2020 17:20:10 >> 
+
+se limpio la cab y items
+03/04/2020 19:48:46 >> 
+
+se limpio la cab y items
+06/04/2020 16:27:55 >> 
+
+se limpio la cab y items
+06/04/2020 16:28:05 >> 
+
+se limpio la cab y items
+06/04/2020 17:14:46 >> 
+
+se limpio la cab y items
+06/04/2020 19:04:49 >> 
+
+se limpio la cab y items
+06/04/2020 19:06:29 >> 
+
+se limpio la cab y items
+06/04/2020 19:06:53 >> 
+
+se limpio la cab y items
+06/04/2020 19:08:15 >> 
+
+se limpio la cab y items
+06/04/2020 19:13:43 >> 
+
+se limpio la cab y items
+06/04/2020 19:15:53 >> 
+
+se limpio la cab y items
+06/04/2020 19:16:45 >> 
+
+se limpio la cab y items
+06/04/2020 19:16:47 >> 
+
+se limpio la cab y items
+06/04/2020 19:19:07 >> 
+
+se limpio la cab y items
+06/04/2020 19:31:08 >> 
+
+se limpio la cab y items
+06/04/2020 19:31:12 >> 
+
+se limpio la cab y items
+06/04/2020 19:32:24 >> 
+
+se limpio la cab y items
+06/04/2020 19:33:14 >> 
+
+se limpio la cab y items
+06/04/2020 19:33:18 >> 
+
+se limpio la cab y items
+06/04/2020 19:33:21 >> 
+
+se limpio la cab y items
+06/04/2020 19:34:55 >> 
+
+se limpio la cab y items
+06/04/2020 19:38:03 >> 
+
+se limpio la cab y items
+06/04/2020 19:46:47 >> 
+
+se limpio la cab y items
+06/04/2020 19:48:22 >> 
+
+se limpio la cab y items
+06/04/2020 19:55:30 >> 
+
+se limpio la cab y items
+06/04/2020 20:05:23 >> 
+
+se limpio la cab y items
+06/04/2020 20:12:22 >> 
+
+se limpio la cab y items
+06/04/2020 20:14:39 >> 
+
+se limpio la cab y items
+06/04/2020 20:20:05 >> 
+Sync. afiliado:
+{"data":{"pac_id":101438,"pac_nombre":"BARRIOS EDUARDO FEDERICO","pac_apellido":"","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":null,"pac_dni":"33656002","pac_cuil":"20336560021","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"INSUMO":"000000000000000951","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"45","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000951","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"45","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg comp.rec.x 10","pat_desc":"DBT I"},{"INSUMO":"000000000000000677","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"47","OBSERVACION":"segundo item","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000677","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"47","red_obs":"segundo item","red_estado":"0"},"mat_desc":"enalapril 10 mg comp.x 50","pat_desc":"DBT II"}]
+06/04/2020 20:20:08 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":101438,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":null,"updated_at":"2020-04-06 20:20:07","created_at":"2020-04-06 20:20:07","rec_id":54}]
+06/04/2020 20:20:48 >> Error al pedir el sync. afiliado:
+""
+ var datos:
+""
+06/04/2020 20:22:26 >> 
+
+se limpio la cab y items
+06/04/2020 20:23:10 >> 
+
+se limpio la cab y items
+06/04/2020 20:23:51 >> 
+
+se limpio la cab y items
+06/04/2020 20:32:24 >> 
+
+se limpio la cab y items
+06/04/2020 20:32:29 >> 
+
+se limpio la cab y items
+06/04/2020 20:34:14 >> 
+
+se limpio la cab y items
+06/04/2020 20:38:17 >> 
+
+se limpio la cab y items
+06/04/2020 20:38:24 >> 
+
+se limpio la cab y items
+06/04/2020 20:38:30 >> 
+
+se limpio la cab y items
+06/04/2020 20:38:36 >> 
+
+se limpio la cab y items
+06/04/2020 20:52:52 >> 
+
+se limpio la cab y items
+06/04/2020 20:57:06 >> 
+
+se limpio la cab y items
+06/04/2020 20:57:19 >> 
+
+se limpio la cab y items
+06/04/2020 20:57:35 >> 
+
+se limpio la cab y items
+07/04/2020 15:38:53 >> 
+
+se limpio la cab y items
+07/04/2020 19:50:28 >> 
+
+se limpio la cab y items
+07/04/2020 19:51:15 >> 
+
+se limpio la cab y items
+08/04/2020 00:17:10 >> 
+
+se limpio la cab y items
+08/04/2020 03:59:51 >> 
+
+se limpio la cab y items
+08/04/2020 04:05:50 >> 
+Sync. afiliado:
+{"data":{"pac_id":40784,"pac_nombre":"GOMEZ EZEQUIEL ELIAS","pac_apellido":"","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":null,"pac_dni":"56354516","pac_cuil":"20563545160","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"INSUMO":"000000000000001208","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"47","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000001208","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"47","red_obs":"primero","red_estado":"0"},"mat_desc":"metformina 1000 mg comp.rec.x 30","pat_desc":"DBT II"},{"INSUMO":"000000000000000035","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"47","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000035","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"47","red_obs":"segundo","red_estado":"0"},"mat_desc":"acetilsalic\uff61lico,c.+cafe\uff61na expend.sob.x 30(c\/prosp)","pat_desc":"DBT II"}]
+08/04/2020 04:05:55 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":40784,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":6,"updated_at":"2020-04-08 04:05:52","created_at":"2020-04-08 04:05:52","rec_id":55},{"rec_fecha":{},"rec_pac_id":40784,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-05-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":6,"updated_at":"2020-04-08 04:05:53","created_at":"2020-04-08 04:05:53","rec_id":56}]
+08/04/2020 04:12:43 >> Error al pedir el sync. afiliado:
+""
+ var datos:
+""
+08/04/2020 04:24:49 >> 
+
+se limpio la cab y items
+08/04/2020 04:25:46 >> 
+
+se limpio la cab y items
+08/04/2020 04:26:24 >> 
+
+se limpio la cab y items
+08/04/2020 04:27:28 >> 
+Sync. afiliado:
+{"data":{"pac_id":40784,"pac_nombre":"GOMEZ EZEQUIEL ELIAS","pac_apellido":"","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":null,"pac_dni":"56354516","pac_cuil":"20563545160","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"INSUMO":"000000000000000952","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"47","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000952","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"47","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg comp.rec.x 20","pat_desc":"DBT II"}]
+08/04/2020 04:27:30 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":40784,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":null,"updated_at":"2020-04-08 04:27:29","created_at":"2020-04-08 04:27:29","rec_id":57}]
+08/04/2020 04:35:10 >> 
+
+se limpio la cab y items
+08/04/2020 04:37:47 >> 
+Sync. afiliado:
+{"data":{"pac_id":40784,"pac_nombre":"GOMEZ EZEQUIEL ELIAS","pac_apellido":"","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":null,"pac_dni":"56354516","pac_cuil":"20563545160","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"INSUMO":"000000000000001206","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"47","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000001206","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"47","red_obs":"primero","red_estado":"0"},"mat_desc":"metformina 1000 mg comp.rec.AP x 60","pat_desc":"DBT II"}]
+08/04/2020 04:37:49 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":40784,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":null,"updated_at":"2020-04-08 04:37:48","created_at":"2020-04-08 04:37:48","rec_id":58}]
+08/04/2020 04:43:12 >> 
+
+se limpio la cab y items
+08/04/2020 04:43:46 >> 
+Sync. afiliado:
+{"data":{"pac_id":40784,"pac_nombre":"GOMEZ EZEQUIEL ELIAS","pac_apellido":"","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":null,"pac_dni":"56354516","pac_cuil":"20563545160","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"INSUMO":"000000000000001208","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"47","OBSERVACION":"primeri","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000001208","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"47","red_obs":"primeri","red_estado":"0"},"mat_desc":"metformina 1000 mg comp.rec.x 30","pat_desc":"DBT II"}]
+08/04/2020 04:43:48 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":40784,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":null,"updated_at":"2020-04-08 04:43:47","created_at":"2020-04-08 04:43:47","rec_id":59}]
+08/04/2020 04:44:09 >> 
+
+se limpio la cab y items
+08/04/2020 14:41:08 >> 
+
+se limpio la cab y items
+08/04/2020 14:41:59 >> 
+Sync. afiliado:
+{"data":{"pac_id":101438,"pac_nombre":"BARRIOS EDUARDO FEDERICO","pac_apellido":"","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":null,"pac_dni":"33656002","pac_cuil":"20336560021","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"INSUMO":"000000000000000951","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"45","OBSERVACION":"\r\n","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000951","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"45","red_obs":"\r\n","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg comp.rec.x 10","pat_desc":"DBT I"}]
+08/04/2020 14:42:03 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":101438,"rec_med_id":1,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":null,"updated_at":"2020-04-08 14:42:01","created_at":"2020-04-08 14:42:01","rec_id":64}]
+08/04/2020 15:32:20 >> 
+
+se limpio la cab y items
+08/04/2020 16:03:41 >> 
+
+se limpio la cab y items
+08/04/2020 17:10:16 >> 
+
+se limpio la cab y items
+08/04/2020 17:36:21 >> 
+
+se limpio la cab y items
+08/04/2020 18:16:19 >> 
+
+se limpio la cab y items
+08/04/2020 19:39:46 >> 
+
+se limpio la cab y items
+08/04/2020 19:41:56 >> 
+
+se limpio la cab y items
+08/04/2020 19:42:09 >> 
+
+se limpio la cab y items
+08/04/2020 19:42:20 >> 
+
+se limpio la cab y items
+08/04/2020 19:42:25 >> 
+
+se limpio la cab y items
+08/04/2020 19:43:06 >> 
+
+se limpio la cab y items
+08/04/2020 19:43:26 >> 
+
+se limpio la cab y items
+08/04/2020 19:45:23 >> 
+
+se limpio la cab y items
+08/04/2020 19:45:55 >> 
+
+se limpio la cab y items
+08/04/2020 20:27:30 >> 
+
+se limpio la cab y items
+08/04/2020 20:27:37 >> 
+
+se limpio la cab y items
+08/04/2020 20:27:46 >> 
+
+se limpio la cab y items
+08/04/2020 20:31:31 >> 
+
+se limpio la cab y items
+08/04/2020 20:31:38 >> 
+
+se limpio la cab y items
+08/04/2020 20:42:44 >> 
+
+se limpio la cab y items
+08/04/2020 20:47:09 >> 
+
+se limpio la cab y items
+08/04/2020 20:47:19 >> 
+
+se limpio la cab y items
+08/04/2020 20:48:08 >> 
+
+se limpio la cab y items
+08/04/2020 20:48:08 >> 
+
+se limpio la cab y items
+09/04/2020 14:11:04 >> 
+
+se limpio la cab y items
+09/04/2020 15:11:19 >> 
+
+se limpio la cab y items
+09/04/2020 15:34:29 >> 
+Sync. afiliado:
+{"data":{"pac_id":101438,"pac_nombre":"BARRIOS EDUARDO FEDERICO","pac_apellido":"","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":null,"pac_dni":"33656002","pac_cuil":"20336560021","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"INSUMO":"000000000000000954","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"45","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000954","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"45","red_obs":"primero","red_estado":"0"},"mat_desc":"ibuprofeno 400 mg comp.x 20","pat_desc":"DBT I"}]
+09/04/2020 15:34:33 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":101438,"rec_med_id":2,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":9,"updated_at":"2020-04-09 15:34:31","created_at":"2020-04-09 15:34:31","rec_id":71},{"rec_fecha":{},"rec_pac_id":101438,"rec_med_id":2,"rec_esp_id":"1","rec_vigencia":"2020-05-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":9,"updated_at":"2020-04-09 15:34:32","created_at":"2020-04-09 15:34:32","rec_id":72}]
+09/04/2020 15:35:03 >> 
+
+se limpio la cab y items
+09/04/2020 16:47:10 >> 
+
+se limpio la cab y items
+09/04/2020 16:53:24 >> 
+Sync. afiliado:
+{"data":{"pac_id":101438,"pac_nombre":"BARRIOS EDUARDO FEDERICO","pac_apellido":"","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":null,"pac_dni":"33656002","pac_cuil":"20336560021","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"INSUMO":"000000000000000678","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"45","OBSERVACION":"primero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000678","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"45","red_obs":"primero","red_estado":"0"},"mat_desc":"enalapril 10 mg comp.x 60","pat_desc":"DBT I"},{"INSUMO":"000000000000001730","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"45","OBSERVACION":"tercero","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000001730","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"45","red_obs":"tercero","red_estado":"0"},"mat_desc":"sitagliptina+metformina,clorh. 100\/1000 mg comp.AP x 28","pat_desc":"DBT I"},{"INSUMO":"000000000000001412","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"45","OBSERVACION":"segundo","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000001412","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"45","red_obs":"segundo","red_estado":"0"},"mat_desc":"paracetamol 500 mg comp.x 20","pat_desc":"DBT I"}]
+09/04/2020 16:53:30 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":101438,"rec_med_id":2,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":10,"updated_at":"2020-04-09 16:53:26","created_at":"2020-04-09 16:53:26","rec_id":74},{"rec_fecha":{},"rec_pac_id":101438,"rec_med_id":2,"rec_esp_id":"1","rec_vigencia":"2020-05-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":10,"updated_at":"2020-04-09 16:53:28","created_at":"2020-04-09 16:53:28","rec_id":75}]
+13/04/2020 13:40:34 >> 
+
+se limpio la cab y items
+13/04/2020 14:30:35 >> 
+
+se limpio la cab y items
+13/04/2020 14:38:31 >> 
+
+se limpio la cab y items
+13/04/2020 16:10:39 >> 
+
+se limpio la cab y items
+13/04/2020 16:32:58 >> 
+Sync. afiliado:
+{"data":{"pac_id":67,"pac_nombre":"LOZADA GONZALEZ ROMAN","pac_apellido":"","pac_os_id":1,"pac_db_origen":1,"pac_db_origen_cod":null,"pac_dni":"95897304","pac_cuil":"20958973048","deleted_at":null,"updated_at":null},"error":"","info":"","detalle":[]}
+ var datos:
+[{"INSUMO":"000000000000001209","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"45","OBSERVACION":"1","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000001209","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"45","red_obs":"1","red_estado":"0"},"mat_desc":"metformina 1000 mg comp.rec.x 60","pat_desc":"DBT I"},{"INSUMO":"000000000000000684","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"315","OBSERVACION":"2","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000684","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"315","red_obs":"2","red_estado":"0"},"mat_desc":"enalapril 5 mg comp.x 60","pat_desc":"TRASTORNOS CARDIACOS"},{"INSUMO":"000000000000000029","MES_INICIO":"","CANTIDAD_MENSUAL":"1","CANTIDAD_MESES":"","PATOLOGIA":"45","OBSERVACION":"3","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000029","red_ins_cant":"1","red_vigencia":"","red_anomes_ini":"","red_pat_id":"45","red_obs":"3","red_estado":"0"},"mat_desc":"acetilciste\uff61na 600 mg comp.efer.x 20","pat_desc":"DBT I"},{"INSUMO":"000000000000000204","MES_INICIO":"","CANTIDAD_MENSUAL":"2","CANTIDAD_MESES":"","PATOLOGIA":"45","OBSERVACION":"4","USUARIO_CREACION":null,"data":{"red_rec_id":0,"red_ins_id":"000000000000000204","red_ins_cant":"2","red_vigencia":"","red_anomes_ini":"","red_pat_id":"45","red_obs":"4","red_estado":"0"},"mat_desc":"atorvastat\uff61n 10 mg comp.rec.x 30","pat_desc":"DBT I"}]
+13/04/2020 16:33:01 >> Sync. resultado:
+[{"rec_fecha":{},"rec_pac_id":67,"rec_med_id":2,"rec_esp_id":"1","rec_vigencia":"2020-04-01","rec_anomes_ini":"2020-04-01","rec_estado":"0","rec_pre_id":null,"updated_at":"2020-04-13 16:32:59","created_at":"2020-04-13 16:32:59","rec_id":84}]
+13/04/2020 16:58:38 >> 
+
+se limpio la cab y items
+14/04/2020 16:55:35 >> 
+
+se limpio la cab y items
+14/04/2020 18:01:43 >> 
+
+se limpio la cab y items
+14/04/2020 18:07:43 >> 
+
+se limpio la cab y items
+14/04/2020 18:21:58 >> 
+
+se limpio la cab y items
+14/04/2020 20:20:40 >> 
+
+se limpio la cab y items
+15/04/2020 15:38:04 >> 
+
+se limpio la cab y items
+15/04/2020 16:30:52 >> 
+
+se limpio la cab y items
+15/04/2020 18:35:42 >> 
+
+se limpio la cab y items
+15/04/2020 18:50:00 >> 
+
+se limpio la cab y items
+15/04/2020 19:05:39 >> 
+
+se limpio la cab y items
+15/04/2020 19:42:10 >> 
+
+se limpio la cab y items
+15/04/2020 20:52:29 >> 
+
+se limpio la cab y items
+15/04/2020 21:04:56 >> 
+
+se limpio la cab y items
+15/04/2020 21:10:20 >> 
+
+se limpio la cab y items
+15/04/2020 21:12:19 >> Error al pedir el sync. afiliado:
+""
+ var datos:
+""
+15/04/2020 21:12:38 >> 
+
+se limpio la cab y items
+15/04/2020 21:17:25 >> 
+
+se limpio la cab y items
+15/04/2020 21:36:57 >> 
+
+se limpio la cab y items
+15/04/2020 21:41:06 >> 
+
+se limpio la cab y items
+15/04/2020 21:45:21 >> Error al pedir el sync. afiliado:
+""
+ var datos:
+""
+15/04/2020 21:47:49 >> Error al pedir el sync. afiliado:
+""
+ var datos:
+""
+15/04/2020 21:48:14 >> Error al pedir el sync. afiliado:
+""
+ var datos:
+""
+15/04/2020 21:48:30 >> Error al pedir el sync. afiliado:
+""
+ var datos:
+""
+15/04/2020 21:48:41 >> 
+
+se limpio la cab y items
+15/04/2020 21:50:00 >> 
+
+se limpio la cab y items
+15/04/2020 21:50:17 >> 
+
+se limpio la cab y items
+15/04/2020 21:53:35 >> 
+
+se limpio la cab y items
+15/04/2020 21:55:50 >> 
+
+se limpio la cab y items
+15/04/2020 22:01:13 >> 
+
+se limpio la cab y items
+15/04/2020 22:06:45 >> Error al pedir el sync. afiliado:
+""
+ var datos:
+""
+15/04/2020 22:07:32 >> 
+
+se limpio la cab y items
+15/04/2020 22:08:53 >> 
+
+se limpio la cab y items
+15/04/2020 22:11:34 >> Error al pedir el sync. afiliado:
+""
+ var datos:
+""
+15/04/2020 22:11:37 >> 
+
+se limpio la cab y items
+15/04/2020 22:11:46 >> 
+
+se limpio la cab y items
+15/04/2020 22:48:31 >> 
+
+se limpio la cab y items
+15/04/2020 22:52:25 >> 
+
+se limpio la cab y items
+15/04/2020 22:52:29 >> 
+
+se limpio la cab y items
+15/04/2020 22:52:38 >> 
+
+se limpio la cab y items
+16/04/2020 00:53:13 >> 
+
+se limpio la cab y items
+16/04/2020 02:11:19 >> 
+
+se limpio la cab y items
+16/04/2020 02:53:16 >> 
+
+se limpio la cab y items
+21/04/2020 05:06:47 >> 
+
+se limpio la cab y items
+21/04/2020 05:09:11 >> 
+
+se limpio la cab y items
+21/04/2020 15:19:25 >> 
+
+se limpio la cab y items
+21/04/2020 15:58:59 >> 
+
+se limpio la cab y items
+21/04/2020 16:04:58 >> 
+
+se limpio la cab y items
+21/04/2020 16:06:33 >> 
+
+se limpio la cab y items
+21/04/2020 16:19:49 >> 
+
+se limpio la cab y items
+21/04/2020 16:49:21 >> 
+
+se limpio la cab y items
+21/04/2020 17:35:51 >> 
+
+se limpio la cab y items
+21/04/2020 17:41:29 >> 
+
+se limpio la cab y items
+21/04/2020 19:34:06 >> 
+
+se limpio la cab y items
+21/04/2020 19:48:56 >> 
+
+se limpio la cab y items
+22/04/2020 16:04:43 >> 
+
+se limpio la cab y items
+23/04/2020 00:11:18 >> 
+
+se limpio la cab y items
+23/04/2020 01:39:41 >> 
+
+se limpio la cab y items
+23/04/2020 01:40:08 >> 
+
+se limpio la cab y items
+23/04/2020 01:51:48 >> 
+
+se limpio la cab y items
+23/04/2020 01:51:57 >> 
+
+se limpio la cab y items
+23/04/2020 01:52:07 >> 
+
+se limpio la cab y items
+23/04/2020 03:46:44 >> 
+
+se limpio la cab y items
+23/04/2020 03:46:45 >> 
+
+se limpio la cab y items
+23/04/2020 03:47:02 >> 
+
+se limpio la cab y items
+23/04/2020 03:58:04 >> 
+
+se limpio la cab y items
+23/04/2020 03:58:46 >> 
+
+se limpio la cab y items
+23/04/2020 04:02:59 >> 
+
+se limpio la cab y items
+23/04/2020 04:18:33 >> 
+
+se limpio la cab y items
+23/04/2020 06:33:54 >> 
+
+se limpio la cab y items
+23/04/2020 19:22:29 >> 
+
+se limpio la cab y items
+23/04/2020 19:23:20 >> 
+
+se limpio la cab y items
+23/04/2020 19:23:51 >> 
+
+se limpio la cab y items
+23/04/2020 19:25:23 >> 
+
+se limpio la cab y items
+23/04/2020 19:41:57 >> 
+
+se limpio la cab y items
+23/04/2020 21:42:29 >> 
+
+se limpio la cab y items
+24/04/2020 15:33:34 >> 
+
+se limpio la cab y items
+24/04/2020 18:28:50 >> 
+
+se limpio la cab y items
+24/04/2020 18:28:59 >> 
+
+se limpio la cab y items
+24/04/2020 19:18:58 >> 
+
+se limpio la cab y items
+24/04/2020 21:12:50 >> 
+
+se limpio la cab y items
+24/04/2020 21:12:50 >> 
+
+se limpio la cab y items
+24/04/2020 21:35:30 >> 
+
+se limpio la cab y items
+24/04/2020 21:35:51 >> 
+
+se limpio la cab y items
+24/04/2020 21:41:28 >> 
+
+se limpio la cab y items
+24/04/2020 21:41:53 >> 
+
+se limpio la cab y items
+27/04/2020 15:31:43 >> 
+
+se limpio la cab y items
+27/04/2020 15:32:19 >> 
+
+se limpio la cab y items
+27/04/2020 15:34:13 >> 
+
+se limpio la cab y items
+27/04/2020 15:34:23 >> 
+
+se limpio la cab y items
+27/04/2020 15:34:29 >> 
+
+se limpio la cab y items
+27/04/2020 15:34:35 >> 
+
+se limpio la cab y items
+27/04/2020 15:34:46 >> 
+
+se limpio la cab y items
+27/04/2020 15:57:19 >> 
+
+se limpio la cab y items
+27/04/2020 15:57:51 >> 
+
+se limpio la cab y items
+27/04/2020 16:23:39 >> 
+
+se limpio la cab y items
+27/04/2020 16:25:41 >> 
+
+se limpio la cab y items
+27/04/2020 16:28:13 >> 
+
+se limpio la cab y items
+27/04/2020 16:31:07 >> 
+
+se limpio la cab y items
+27/04/2020 19:07:40 >> 
+
+se limpio la cab y items
+28/04/2020 18:13:19 >> 
+
+se limpio la cab y items
+28/04/2020 18:35:49 >> 
+
+se limpio la cab y items
+28/04/2020 20:08:44 >> 
+
+se limpio la cab y items
+28/04/2020 20:44:12 >> 
+
+se limpio la cab y items
+28/04/2020 20:44:47 >> 
+
+se limpio la cab y items
+28/04/2020 20:47:19 >> 
+
+se limpio la cab y items
+28/04/2020 20:47:34 >> 
+
+se limpio la cab y items
+29/04/2020 02:08:24 >> 
+
+se limpio la cab y items
+05/05/2020 01:36:44 >> 
+
+se limpio la cab y items
+05/05/2020 01:41:48 >> 
+
+se limpio la cab y items
+05/05/2020 02:15:33 >> 
+
+se limpio la cab y items
+05/05/2020 02:22:29 >> 
+
+se limpio la cab y items
+05/05/2020 02:23:03 >> 
+
+se limpio la cab y items
+05/05/2020 03:28:42 >> 
+
+se limpio la cab y items
+05/05/2020 03:34:58 >> 
+
+se limpio la cab y items
+05/05/2020 03:35:13 >> 
+
+se limpio la cab y items
+05/05/2020 16:52:42 >> 
+
+se limpio la cab y items
+06/05/2020 15:42:07 >> 
+
+se limpio la cab y items
+07/05/2020 15:07:56 >> 
+
+se limpio la cab y items
+07/05/2020 15:49:03 >> 
+
+se limpio la cab y items
+07/05/2020 15:49:03 >> 
+
+se limpio la cab y items
+07/05/2020 16:38:48 >> 
+
+se limpio la cab y items
+11/05/2020 02:42:58 >> 
+
+se limpio la cab y items
