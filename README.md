@@ -34,7 +34,7 @@ php artisan db:seed --class=UsuarioSeeder
 php artisan storage:link
 ```
 
-## El proyecto base cuenta con (PENDIENTE DE COMPLETAR):
+## El proyecto base cuenta con :
 
 ### Recursos para el cliente
 #### Diseño
@@ -55,3 +55,13 @@ php artisan storage:link
 ### Ambiente de desarrollo y Herramientas de desarrollo
 * [Wampserver](http://wampserver.aviatechno.net/) -	Admin server completo de ambiente de desarrollo en windows
 * [crud generator](https://github.com/appzcoder/crud-generator/tree/master/doc#readme) - Generador de codigo crud en base a recursos de laravel, migrate y html. A partir de un archivo de esquema json
+
+
+## Mejoreas pendientes
+
+******
+1. mejorar los popup de errro con un grow
+2. el destacado de los mensajes al lado de los campos, ponerlos a nivel del label con estilo danger
+3. registro con hash en clave
+4. envio de cambio de clave por mail y, solicitud de blanqueo
+******
