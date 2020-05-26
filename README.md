@@ -11,7 +11,7 @@ composer install
 ```
 * Luego debe copiar y editar el archivo .env para el proyecto nuevo
 ```
-cp .env.axample .env
+cp .env.example .env
 ```
 En el mismo tiene las variables de configuración para acceso a db, servidor de mail, etc, para editar segun se requiera
 
@@ -20,16 +20,16 @@ En el mismo tiene las variables de configuración para acceso a db, servidor de 
 php artisan key:generate
 ```
 
-*debe crear la tabla de usuarios ejecutando el migrate
+* debe crear la tabla de usuarios ejecutando el migrate
 ```
 php artisan migrate
 ```
 
-*debe crear el usuario administrador con un seeader
+* debe crear el usuario administrador con un seeder
 ```
 php artisan db:seed --class=UsuarioSeeder
 ```
-*debe vincular el storage de imagenes
+* debe vincular el storage de imagenes
 ```
 php artisan storage:link
 ```
@@ -51,11 +51,6 @@ php artisan storage:link
 * [html2pdf](https://github.com/spipu/html2pdf) - Generador de PDF en base a HTML
 * [SS datatables.js](https://github.com/yajra/laravel-datatables) - Server side for DataTable.js controller 		
 * [Script Jenkins](http://jenkins.grupobasa.com.ar/) - Script para deploy, se debe editar los mismos para que apunten al ambiente correspondiente
-
-### Ambiente de desarrollo y Herramientas de desarrollo
-* [Wampserver](http://wampserver.aviatechno.net/) -	Admin server completo de ambiente de desarrollo en windows
-* [crud generator](https://github.com/appzcoder/crud-generator/tree/master/doc#readme) - Generador de codigo crud en base a recursos de laravel, migrate y html. A partir de un archivo de esquema json
-
 
 ## Mejoreas pendientes
 
