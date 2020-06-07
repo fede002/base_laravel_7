@@ -9,25 +9,25 @@ use Illuminate\Support\Facades\Storage;
 
 class valPermisos
 {
-    /**
-     * Handle an incoming request.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \Closure  $next
-     * @return mixed
-     */
-    public function handle($request, Closure $next,String $grupo_rol)
-    {
-        $usuArr = Session::get("usuario");    
+  /**
+   * Handle an incoming request.
+   *
+   * @param  \Illuminate\Http\Request  $request
+   * @param  \Closure  $next
+   * @return mixed
+   */
+  public function handle($request, Closure $next, String $grupo_rol)
+  {
+    $usuArr = Session::get("usuario");
 
-        if (!empty($usuArr)) {
-            
-            $roles = explode("_",$grupo_rol);
+    if (!empty($usuArr)) {
 
-            //se validan requerimientos de perfil
-            //por el momento solo tiene que tener la firma cargada
-            $existe = false;
-            /*
+      $roles = explode("_", $grupo_rol);
+
+      //se validan requerimientos de perfil
+      //por el momento solo tiene que tener la firma cargada
+      $existe = false;
+      /*
             if (empty(strpos($usuArr->med_firmaimg, "public/firma"))){                
                 $existe =  file_exists( Storage::path($usuArr->med_firmaimg));                
             }            
@@ -41,22 +41,21 @@ class valPermisos
                 }                
             }
             **/
-            //se valida el rol segun eñ archivo web config
-            // TODO: implementar compo tipo para validar el perfil
-            //$tipo =  $usuArr->med_tipo;
-            $tipo =  1;
-            if( in_array($tipo, $roles)){
-                Session::put("mensaje_error", "");
-                return $next($request);
-            }else{
-                $print =  'No cuenta con los permisos necesarios para realizar esta opción!';
-                $resul = ["tipo" => "danger", "mensaje" => $print];
-                $request->session()->flash('mensaje_error', $resul);                
-                return redirect("/msgError");
-            }            
-
-        } else {            
-            return redirect("/ingreso");
-        }
+      //se valida el rol segun eñ archivo web config
+      // TODO: implementar compo tipo para validar el perfil
+      //$tipo =  $usuArr->med_tipo;
+      $tipo =  1;
+      if (in_array($tipo, $roles)) {
+        Session::put("mensaje_error", "");
+        return $next($request);
+      } else {
+        $print =  'No cuenta con los permisos necesarios para realizar esta opción!';
+        $resul = ["tipo" => "danger", "mensaje" => $print];
+        $request->session()->flash('mensaje_error', $resul);
+        return redirect("/msgError");
+      }
+    } else {
+      return redirect("/ingreso");
     }
+  }
 }
