@@ -43,8 +43,8 @@ class valPermisos
             **/
       //se valida el rol segun eñ archivo web config
       // TODO: implementar compo tipo para validar el perfil
-      //$tipo =  $usuArr->med_tipo;
-      $tipo =  1;
+      $tipo =  $usuArr->tipo;
+      //$tipo =  1;
       if (in_array($tipo, $roles)) {
         Session::put("mensaje_error", "");
         return $next($request);

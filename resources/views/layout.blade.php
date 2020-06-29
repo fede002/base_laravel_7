@@ -330,9 +330,8 @@ $usuArr = Session::get("usuario");
             <h3>{{$template_titulo}}</h3>
             <hr>
           </div>
-          <?php
-          //App\Helpers\miPrint::dd(session("afiliado"),"afiliado _session2");                     
-          ?>
+          
+          @include('comp/flash_message')
 
           @yield('contenido')
 
