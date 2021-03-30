@@ -13,9 +13,7 @@
   </script>
   <script src="{{asset('/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
   <link href="{{asset('/vendor/fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-
-  <script src="{{asset('/vendor/blockui/jquery.blockUI.min.js')}}"></script>
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">  
 
   <!--TODO: descargar select2 local-->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/css/select2.min.css" rel="stylesheet" />
@@ -332,9 +330,8 @@ $usuArr = Session::get("usuario");
             <h3>{{$template_titulo}}</h3>
             <hr>
           </div>
-          <?php
-          //App\Helpers\miPrint::dd(session("afiliado"),"afiliado _session2");                     
-          ?>
+          
+          @include('comp/flash_message')
 
           @yield('contenido')
 
@@ -377,16 +374,8 @@ $usuArr = Session::get("usuario");
 
   <!-- Custom scripts for all pages-->
   <script src="{{asset('/js/sb-admin-2.min.js')}}"></script>
-
+  <script type="text/javascript" src="{{asset('/vendor/blockui/jquery.blockUI.js')}}" ></script>
 </body>
-
-
-
-
-
-
-
-
 
 
 <script>
